@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "74B01AB8-1071-4859-BAEC-FA0DCA48A6D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 167,
+    "x": 240,
+    "y": 92
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A82CE84B-8FBB-4B8B-93B6-D3CED681F6D4"
+    },
+    {
+      "class": "text",
+      "id": "3E2CF25A-1EFC-4F5C-B09B-04E36CEDED91"
+    },
+    {
+      "class": "text",
+      "id": "F42966A3-B1EF-4A44-A281-B3E5874FDA64"
+    }
+  ],
+  "name": "Breadcrumbs 2 layers hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

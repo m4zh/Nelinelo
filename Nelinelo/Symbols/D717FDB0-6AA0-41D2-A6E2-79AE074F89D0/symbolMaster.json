@@ -1,0 +1,123 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 4072,
+  "do_objectID": "D717FDB0-6AA0-41D2-A6E2-79AE074F89D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 1440,
+    "x": 2725,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "494FABEB-1CE3-4607-B67A-437787862CAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86BEC52B-CAB9-426B-AB70-84537CC68E27"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA5E5625-3754-4BB9-9BBA-CB691D943F46"
+    },
+    {
+      "class": "text",
+      "id": "382A40C9-E990-464F-9693-9F5172FA1A71"
+    },
+    {
+      "class": "group",
+      "id": "0D2BC579-5DB9-40A8-888E-A314C0EC7EBB"
+    },
+    {
+      "class": "group",
+      "id": "0488FB98-F316-4683-9288-90C86CCD1D99"
+    },
+    {
+      "class": "group",
+      "id": "53AE901B-069B-48F9-823F-76443623D99F"
+    },
+    {
+      "class": "group",
+      "id": "CE6DFE55-609D-4669-B4F3-8A83E1AE95C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "263B0CC2-EF29-4E3E-A195-E1C8644AA2FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6A4A6048-8B71-4DE6-9EF6-5645AA3CD558"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "Bar / Header / Individuals / Loged in / 1440px",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4303AF77-0AFD-4C7C-BE32-22E4C7B3F889",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

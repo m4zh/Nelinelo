@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A0F50C75-E1A0-4480-B428-45BD278F908D",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 592,
+  "do_objectID": "2E48CB10-6365-4EE6-9496-3578DA4C6D92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "75C12D6F-0E58-4704-A76E-9145AE21BDB4",
+    "height": 40,
+    "width": 40,
+    "x": 68830,
+    "y": 240
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D14E7934-8AD6-415B-967F-AAECC1E933BD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A252623C-A0A6-4A5A-B277-B3EC4D0DD0E6"
+    },
+    {
+      "class": "group",
+      "id": "5C4185AA-6216-49BE-B379-CDD39EEEB7E1"
+    }
+  ],
+  "name": "UIKit / Steps / Steps Icon / Step 2 Icon",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAC7BEE8-90DE-43AA-9A0F-FCA33F5E0345",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5036EF71-3C6E-4268-B429-8875335155B2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5B6EAA84-5B15-4EA4-9241-CAA26485B505",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2B2BB108-CB1F-4074-B33D-485268F09DF9",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1576,
+  "do_objectID": "2DC69885-64AE-4EEF-9FCA-C788723DC714",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3AB0774-3752-421F-93EE-B2D1BB69C42C",
+    "height": 314,
+    "width": 255,
+    "x": 28512,
+    "y": 2029
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "20CA94E6-903B-450E-AF2D-B780F3DD5797",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8ED34B7F-598B-4E89-AD80-FD97B34A7321"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1BDB539-2096-428B-83FC-0F6E876E88B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "45757FC8-B601-4BFB-86E6-2BA3A52FD945"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B734B75-5E07-492A-B459-009A96E9EC30"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "18434686-E6D3-4772-BE48-689ED3A9DCBE"
+    },
+    {
+      "class": "text",
+      "id": "B2C66ABB-7656-4084-BABB-990F112A99B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "619207EC-4A40-429E-BAA9-DF3BFF450BE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BC8DB3A-1CA3-457A-833C-91A305F2DD51"
+    }
+  ],
+  "name": "Contents / Profile / Collections / My Multi Ads",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "13C6D853-9A79-42FF-A53E-72658B5C9560",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2351EB98-09D8-4966-A2E9-19E9E1064368",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "57ADFD69-1920-419E-B210-971CA84EE10F",
+    "guides": [
+    ]
+  }
+}

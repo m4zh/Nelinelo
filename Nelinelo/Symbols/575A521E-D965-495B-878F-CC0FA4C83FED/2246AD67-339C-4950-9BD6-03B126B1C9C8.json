@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2246AD67-339C-4950-9BD6-03B126B1C9C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8971A9C3-92F7-424B-B34C-10A9CF81080E",
+    "height": 56,
+    "width": 287,
+    "x": 16,
+    "y": 300
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Message 4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DCA5A3E-D876-4AD1-A6F5-4C962A14443C",
+      "overrideName": "D078776E-C376-4173-A9E2-01873C710E8D_stringValue",
+      "value": "1 hour ago"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE64CD1C-497D-4B14-9575-D9942F3C02CA",
+      "overrideName": "19906C03-9362-44AA-A75E-0BEA33B29D84_stringValue",
+      "value": "Phillipe William"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDB26F4D-D834-4718-959F-2A14306BFA21",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CF48F301-2873-4F45-ADB8-0F664F0FF969",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

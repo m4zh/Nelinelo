@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "47066DC6-04D0-4B6B-AE75-77FB59BC1661",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 381,
+    "width": 255,
+    "x": 165,
+    "y": 849
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E51A185F-C405-4EB3-8124-4BE23D36789D/6AD48E33-AD08-4B19-8575-D1054F4640CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8a4d09fde094e379d6a06811b69f2fe9d523eb7e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C7196768-A933-45EB-A56A-799E650ADCA4/187DB4F9-DF78-4B25-BA09-C570D0FF4E2E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/603c576d94907a51886a382bedae0bf0fb6865b9.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C7196768-A933-45EB-A56A-799E650ADCA4/E1C2BF08-A7FF-4CE6-884F-E66C7E9C70E9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4ba4d4a584c68978c6c2b8d5e78bd1bd95185789.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C7196768-A933-45EB-A56A-799E650ADCA4/B3798C9F-70FA-4398-8750-84B554624112_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/718f021541d4997febc16c2076cb127bcd41ca33.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C7196768-A933-45EB-A56A-799E650ADCA4/F0E905AB-6D84-44F7-A7E9-E8B027CDE407_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9266fee8d4df04134271436ee3b43ef044ea5330.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BE03D472-A37E-4616-A721-B3D5A7CAA671_stringValue",
+      "value": "Electrical devices"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "921C62D2-44B8-4CC0-A3D1-8E97D17115B1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "42D21B7F-A7C2-4C5F-BDED-24A53C9F3596",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 361,
+    "width": 255,
+    "x": 0,
+    "y": 391
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 5",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9ABC80BB-78CB-43E6-A6C0-CE38A5B63065_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9b698956329ec3e7f95ccf26e84f2b54066f109e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B98A1C2E-99A4-421C-8874-35C233249F62_stringValue",
+      "value": "Kid's clothing"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "74D3D061-D98D-4561-9DEA-DA104D450B5F/8626F0B2-0A58-4EBE-9B0F-DE3DD87D5E8A/DB229D15-1076-45C9-89F9-45EB4F2B1D21_symbolID",
+      "value": "01496631-4955-4529-9B55-8DCDE428CDE8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "74D3D061-D98D-4561-9DEA-DA104D450B5F/8626F0B2-0A58-4EBE-9B0F-DE3DD87D5E8A/98FF37D5-C5C6-4166-B9E7-283F143D30E4_stringValue",
+      "value": "FOLLOWING"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0A86F396-01CF-486A-9246-92AC2EB8E314",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

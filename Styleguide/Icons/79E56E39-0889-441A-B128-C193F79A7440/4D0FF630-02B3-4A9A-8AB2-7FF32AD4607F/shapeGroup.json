@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "4D0FF630-02B3-4A9A-8AB2-7FF32AD4607F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12.00000000190595,
+    "width": 20,
+    "x": 0,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2C415802-A977-4C26-8846-E34C4CFF86A7"
+    },
+    {
+      "class": "shapePath",
+      "id": "0E1AE9C2-01D0-4776-9B5E-80A74CB07B53"
+    },
+    {
+      "class": "shapePath",
+      "id": "F89BD1B3-224F-4701-B056-8139DB28EFD0"
+    },
+    {
+      "class": "shapePath",
+      "id": "8F64B1F3-4A18-42EC-A2C6-C0AD681F32C5"
+    },
+    {
+      "class": "shapePath",
+      "id": "6DE4DF42-A8F3-4721-8572-45D08471EB25"
+    },
+    {
+      "class": "shapePath",
+      "id": "1CB686EC-9846-4B82-87BA-AA62FF81B4BC"
+    }
+  ],
+  "name": "Icons / Truck",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

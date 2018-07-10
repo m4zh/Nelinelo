@@ -1,0 +1,127 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "50985704-0727-47B8-9A95-336E42C759C9",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 341,
+  "do_objectID": "82DD3ECD-1771-4B4A-8AA4-64139CC22481",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA779599-D9F1-4A57-B4D9-8F69182CD0C1",
+    "height": 170,
+    "width": 417,
+    "x": 43413,
+    "y": 240
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "960DEE10-FE69-4D2E-B06A-C1E0A397B12E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A839869F-CCC5-4FA7-8223-1503E5108CAB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8DEABED6-517C-4C4E-92BB-B985D4C21DB9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "460AF8A2-DEC4-4E52-9B8A-92BF3EAD9875"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D06DA32-8D79-4D82-BA1D-FC2C8B8A6357"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE0C0760-FEA3-477D-A334-B92D810C7616"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9D5E6F26-2CF3-4708-BA22-73DE3FB99B97"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0515B23A-042B-4860-BD33-8CE5F528F00D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E86154D-9577-41CF-866B-0A8649446C95"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7AF2F82-F358-4970-B6D7-B2A01743A317"
+    },
+    {
+      "class": "group",
+      "id": "A25AF29F-1AD1-47A6-BC4A-77648DC82BAF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2002F610-6CCF-4241-9F57-55BF609CB539"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20B71A72-282D-4E76-9D44-BF9E8D6E3500"
+    }
+  ],
+  "name": "Logo / Gray Beta",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02E1A9D9-D23D-4072-94EB-C6C62F2390FA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9229DD1E-5DB5-45B0-A183-510BA839A701",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0692E5DD-FE49-4FCF-B748-2C64C2865205",
+    "guides": [
+    ]
+  }
+}

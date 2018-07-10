@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8D5E797E-3337-4C7E-BC0C-0AD4584233E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "749A3E6E-A99D-474B-9546-6A4309D76AA0",
+    "height": 125,
+    "width": 371,
+    "x": 370,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Pricing Page / Table / Col / Content / Monthly pricing",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E3D19B9-4DE6-4442-AFA5-4EF452C2CA80",
+      "overrideName": "8CE7A11D-C0C3-47D1-9B2D-C716D932C736_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "455C05DE-181F-4B05-BDCF-6B00C701E1B9",
+      "overrideName": "13CE28D9-D1CA-4F61-8A1D-8B2719336BEF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D67AC61-0449-4C6D-AB1E-6A7C35EDFCB6",
+      "overrideName": "BD156BD0-D65B-48E1-A9F7-3C7389E1BEFF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4F326395-6EFC-4371-B27C-36A4400ACB48",
+      "overrideName": "BB658500-5D79-4A8C-9BC1-8DABFFC75020_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2857AE00-A79F-41FE-A1D7-2E136DECBFBF",
+      "overrideName": "346D76D7-1E84-4931-A502-157472A86DF7_stringValue",
+      "value": "CAD / month"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C08475F2-8192-4AA7-91DB-C74CAF97D29A",
+      "overrideName": "CA3B0CAF-2F76-4E7E-8F9D-D8EE39ACD921/9E33B66A-F2F6-4957-8C34-839A1D965C30/3B60FAC9-B751-4F9E-B966-F5DD3293C172_stringValue",
+      "value": "START FREE TRIAL"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6A6134B-6204-4098-BB48-8FAFD740ADC5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F8938849-8DEE-43D6-9B42-8F5079B5479F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

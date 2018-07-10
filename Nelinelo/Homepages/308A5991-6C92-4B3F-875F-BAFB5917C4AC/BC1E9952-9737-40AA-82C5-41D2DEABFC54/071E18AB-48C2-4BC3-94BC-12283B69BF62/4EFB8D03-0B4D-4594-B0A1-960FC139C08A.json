@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4EFB8D03-0B4D-4594-B0A1-960FC139C08A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9EABA64A-94EA-4AB1-8E9A-D35066537CF8",
+    "height": 93,
+    "width": 255,
+    "x": 285,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Homepage / Categories",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FEF2D01-C412-4A61-8E05-69B4626DE027",
+      "overrideName": "0B291A46-2E29-4E65-8F6B-80D85110ED02_stringValue",
+      "value": "BIKINIS"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98FD313E-A17D-4E50-B560-88743B51921D",
+      "overrideName": "2976E86D-2620-4CE4-A1A9-A6377675EE46_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c5734f2547ffb40ba200f7e5b67b031c5a4aecc7.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "880E7F47-206F-4EC1-B4E7-EF41C09FD5DB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "94B4B16E-3196-4592-9925-0D965D12E944",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

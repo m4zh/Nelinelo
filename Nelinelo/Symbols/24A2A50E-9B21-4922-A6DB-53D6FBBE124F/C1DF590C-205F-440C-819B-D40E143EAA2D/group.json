@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "C1DF590C-205F-440C-819B-D40E143EAA2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 13,
+    "x": 211,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9F457232-81CF-4B87-B082-A98E80208783"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "995C40BE-2226-4F5A-B3F4-6A7AE31D42EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D8B8F06A-C76E-46CA-A013-DCEB09153141"
+    }
+  ],
+  "name": "Icon / Commons / Upload / Primary",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_08d65ece-c565-4c92-81cd-1b1032f8965d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 12.8
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_9c063a89-2977-4a73-8168-fc6349de2652",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F2ADCB0B-68DC-42D6-A86E-2E56179BAB43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00E2BFC9-3018-4D3D-BB8D-8510B6AC487B",
+    "height": 249,
+    "width": 160,
+    "x": 570,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Profile / Followers|Following",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AF75F62-0AF8-43FE-8DEA-E6B32B55E755",
+      "overrideName": "1555ED04-E5E8-4CD7-A6AC-B2349A1D1D18_stringValue",
+      "value": "@haunted.captain"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F450930-699C-4C01-8AA9-E987F7755E95",
+      "overrideName": "8166C3B7-2C4B-41C3-B12C-12C857AE32AF_symbolID",
+      "value": "6A85D4ED-3869-491F-9048-FB8C810383AF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F79D1CD-411F-4A91-8B20-FB373938546D",
+      "overrideName": "E4A53153-AAEB-4F4B-96A5-0239E8593C92/6AD48E33-AD08-4B19-8575-D1054F4640CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ca754a2e1cd0b559e4c66f3fbc3d575d76c31070.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1099F502-3D76-48D2-8580-19A3243AD1C3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E91B0902-3915-4E60-BCEC-7A55BAA4E05F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

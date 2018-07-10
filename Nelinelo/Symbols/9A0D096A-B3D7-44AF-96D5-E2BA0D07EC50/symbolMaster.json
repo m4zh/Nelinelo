@@ -1,0 +1,105 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F8545E3B-340D-47DB-9BE1-97F74D256C8B",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 784,
+  "do_objectID": "9A0D096A-B3D7-44AF-96D5-E2BA0D07EC50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "071A2B7B-29F7-4DD1-A8C9-97AF6590CA3E",
+    "height": 562,
+    "width": 730,
+    "x": 64017,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "11F4E793-2B0A-4CE1-A163-59300587D522",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "392C37A9-81C9-435D-AACF-169BBCA1000D"
+    },
+    {
+      "class": "text",
+      "id": "B13A22BB-4F29-48C3-9440-97A1D9E522B0"
+    },
+    {
+      "class": "group",
+      "id": "B28E9089-0237-42B3-9685-A1431015F55A"
+    },
+    {
+      "class": "group",
+      "id": "2AA8AE2A-87B8-4BA5-A164-E183F08A3CAD"
+    },
+    {
+      "class": "group",
+      "id": "EF152DEB-2DA1-428E-97AF-2A6B66837AAA"
+    },
+    {
+      "class": "text",
+      "id": "B8026C97-340B-4780-A642-C39EF985D969"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32C5CE4D-271E-4C77-A8E3-4AC0C5D0287A"
+    },
+    {
+      "class": "text",
+      "id": "8F3EF8F3-ABE4-4F92-ACCA-726139725EAA"
+    }
+  ],
+  "name": "Profile / Individual / Owner / Collections / Edit Collection Modal",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51E79EB2-605C-4B00-BE38-DEB58FDC3C99",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EFD54F3D-C835-4DF7-95E5-35273DDF6E1E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "339D8201-EA21-431D-A18C-EEB3141C6913",
+    "guides": [
+    ]
+  }
+}

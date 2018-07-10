@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D58F03DC-2974-4A9D-A96A-9A06624238BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 680,
+    "width": 1110,
+    "x": 0,
+    "y": 93
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Profile / Interests / Items",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC93D6B5-EBE9-4938-93AC-4042C3B6F9E2",
+      "overrideName": "592856D9-A7C7-4309-BC94-9AFBD45008C4/74D3D061-D98D-4561-9DEA-DA104D450B5F_symbolID",
+      "value": "BF520F03-98F4-4033-9A48-C6EA7FC5C526"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E988802-1A13-4CD8-ACC1-ADFEB4D0CEF3",
+      "overrideName": "592856D9-A7C7-4309-BC94-9AFBD45008C4/74D3D061-D98D-4561-9DEA-DA104D450B5F/EE76AD2E-772A-4D47-A5F9-B6449525C3A4/98FF37D5-C5C6-4166-B9E7-283F143D30E4_stringValue",
+      "value": "FOLLOWING"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D2C3256B-E9B4-4E3D-9C3A-60B1150FC32E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

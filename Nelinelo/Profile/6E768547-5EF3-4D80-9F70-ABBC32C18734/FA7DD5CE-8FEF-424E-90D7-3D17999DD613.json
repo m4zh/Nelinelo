@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FA7DD5CE-8FEF-424E-90D7-3D17999DD613",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F538AA14-0F81-4F76-88EB-358F6000C5D4",
+    "height": 36,
+    "width": 36,
+    "x": 960,
+    "y": 1357
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Profile / Shop / Public / Contents / About / Opening Hours / Day",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16EB1680-4681-4E35-A0AC-15C1F6B38BBA",
+      "overrideName": "359CA1D4-FE65-43CF-8621-44B1F3F003B1_stringValue",
+      "value": "S"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90B975A4-CAA0-4931-8D67-5C7D7132A3CB",
+      "overrideName": "AE6E55B5-12B4-4DA9-8F51-5D24B088CAD6_symbolID",
+      "value": "530191AD-BEB7-4023-A899-350B1D7F035F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80DCE1B8-29D9-484A-989D-D7D22F0EB663",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7311FC97-8061-4C30-A725-497AB781E7EB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

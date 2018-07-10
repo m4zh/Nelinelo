@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "38DD2FA9-502F-4CF0-9678-785B18C9793B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "EE60BA68-3C0F-49F6-B2E3-CC30E4844EB1",
+    "do_objectID": "E719B965-7F5A-4AB1-A5FB-8586BF890126"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 72,
+    "x": 183,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FCA94294-0987-4E17-99C8-A5BB11F5FC86"
+    },
+    {
+      "class": "group",
+      "id": "B42D261B-7314-4E6E-98A6-9FBBBA17E7B9"
+    },
+    {
+      "class": "text",
+      "id": "E351612A-A831-4FBC-B80A-9F37D9253462"
+    }
+  ],
+  "name": "Group 6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

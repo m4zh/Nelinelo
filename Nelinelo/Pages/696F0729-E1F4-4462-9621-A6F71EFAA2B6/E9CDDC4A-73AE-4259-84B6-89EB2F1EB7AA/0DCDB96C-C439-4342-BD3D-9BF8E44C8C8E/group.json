@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "0DCDB96C-C439-4342-BD3D-9BF8E44C8C8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 214,
+    "width": 475,
+    "x": 635,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "2E5F951E-2F7B-45B4-83CF-6C4E267D2174"
+    },
+    {
+      "class": "text",
+      "id": "F2CD1D4E-4E66-4D6B-8D4C-D99239771515"
+    },
+    {
+      "class": "text",
+      "id": "C2675A03-5D9E-48F5-A789-81DE94940FFF"
+    }
+  ],
+  "name": "Delivery Cost",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

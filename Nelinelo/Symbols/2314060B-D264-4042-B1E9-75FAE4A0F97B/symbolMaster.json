@@ -1,0 +1,122 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C93E2A22-FC56-48CA-B8B8-7EF7AA523804",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 7414,
+  "do_objectID": "2314060B-D264-4042-B1E9-75FAE4A0F97B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "185C2D3A-E294-4BFD-A5F1-73DD5737BC31",
+    "height": 82,
+    "width": 850,
+    "x": 67540,
+    "y": 262
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "78175D4E-C24B-4840-80BD-5763E66BB969",
+    "guides": [
+      58,
+      312,
+      551,
+      805
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "04DF7D52-3529-4A67-A5F3-33CFD20A29AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C9E571C-776C-4ABF-A41D-F857A58A0491"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6264848-7FA7-43EF-9FD3-3097E0009A9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5ACE97BB-82D9-486C-9092-FB88FF9918BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "244BC694-98F8-4EF3-A692-20AA37E8DCDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "303BB096-85D3-47C3-BD70-972CE7ACB38A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "669F4822-9B37-47AF-B8C1-84986353BDF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA27FBD8-1884-452E-89E9-0E7C9F3A21B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4964CAB-B144-450A-BA2D-D95B63AD743F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97E542BD-1813-4555-B2AA-BF135254CAA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7B92086-12AE-4B6C-B7AB-418919302F55"
+    }
+  ],
+  "name": "UIKit / Steps / Steps Icon",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1002412B-FF9E-4597-9446-CE3DBC756AAD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EA66168D-0AAA-4EE3-B1C4-527BFD424053",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C4FAA990-A2FA-4E77-B41B-D81462A8488A",
+    "guides": [
+      45
+    ]
+  }
+}

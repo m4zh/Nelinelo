@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AA072B12-C0E3-4DD4-BC27-105416998FD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "557B4682-0DCA-4675-BA3B-34DBFB3E64D6",
+    "height": 313,
+    "width": 255,
+    "x": 285,
+    "y": 343
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 6",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5815CAD4-C477-4876-9CFB-707C3FE2BAA8",
+      "overrideName": "9ABC80BB-78CB-43E6-A6C0-CE38A5B63065_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/fe24124a9fd13fa2954b6e89e5df3b3e389cbd53.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0F667D6-956B-4557-A6A2-56C850C1A2D9",
+      "overrideName": "B98A1C2E-99A4-421C-8874-35C233249F62_stringValue",
+      "value": "Women's clothing"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC70F10E-1AE1-4521-BEE4-EFDED533FB2E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0A86F396-01CF-486A-9246-92AC2EB8E314",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

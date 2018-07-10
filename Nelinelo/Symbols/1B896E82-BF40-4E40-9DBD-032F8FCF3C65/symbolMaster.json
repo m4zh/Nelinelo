@@ -1,0 +1,138 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "23EEE0FF-2AD5-496E-9B81-9C61BBCBB339",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 26396,
+  "do_objectID": "1B896E82-BF40-4E40-9DBD-032F8FCF3C65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E73CA9D3-B5BC-4A6B-BE04-77966F44D38E",
+    "height": 630,
+    "width": 540,
+    "x": 18816,
+    "y": 1777
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "45D3A238-B88B-4BE3-B2BE-006F16A86F1A",
+    "guides": [
+      35,
+      505
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0DD8F445-5A62-4D47-B1AF-2CE57B4E4960"
+    },
+    {
+      "class": "text",
+      "id": "C01933A8-6DAE-421E-972B-61663B56BE7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62328C61-C943-4F71-B881-3EB51395E521"
+    },
+    {
+      "class": "text",
+      "id": "D30F06A9-A97F-4F5F-8B06-BEFCB1788804"
+    },
+    {
+      "class": "text",
+      "id": "1EDDCE79-49FD-44C1-92D5-5F476B2B995F"
+    },
+    {
+      "class": "text",
+      "id": "DB2DD4E3-1955-4AB0-9BD3-903BEB720068"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C2DEBF04-78FB-4298-9CDF-6AAD00C2C50A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0E8C2FC-CA8E-4706-9D9D-221BB4E292BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E38F383C-678E-431C-86A7-096C19BEB284"
+    },
+    {
+      "class": "group",
+      "id": "CF726505-0D2F-41E1-8DF2-7C5B8777BBB5"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 142.5,
+    "do_objectID": "CEF8A5B4-CEB3-4194-8A66-9610C900DFB2",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 60,
+    "guttersOutside": false,
+    "horizontalOffset": 97.5,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 345
+  },
+  "name": "Contents / Auth / Shop / Step 2 / Pro Connect",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE8A564B-CEFF-4453-93F5-550201A4F47D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2B79918F-228A-45E0-83CF-2E4AEE85C223",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3819D290-9276-45FE-8C5E-A47314453AD5",
+    "guides": [
+      376
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "F21877A9-6CCF-410C-B3F7-FDEB9FC03271",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 331,
+    "x": 22,
+    "y": 1760
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "988281CE-CE3E-4134-8282-D9F204187857"
+    },
+    {
+      "class": "text",
+      "id": "34570E5D-EE2D-4EC2-8921-1A8D57A73E87"
+    }
+  ],
+  "name": "Contents / Homepage / Signup List / 375px / Single Line",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

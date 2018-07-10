@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C1238DBE-6356-4DDB-B36A-9477C8BD92D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59F6A9ED-A509-468A-9E43-231B90FCF59C",
+    "height": 93,
+    "width": 255,
+    "x": 855,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Homepage / Categories",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE8D4DB4-4BAF-4172-9D05-8F1C5EBCCE10",
+      "overrideName": "0B291A46-2E29-4E65-8F6B-80D85110ED02_stringValue",
+      "value": "FLOWERS"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8464E484-43FD-4196-9323-C123F8DC028E",
+      "overrideName": "2976E86D-2620-4CE4-A1A9-A6377675EE46_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8839de40f7f5029cc7ea065beafcc13de66a0579.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "199C2348-7770-4B63-B7D9-0556752761A4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "94B4B16E-3196-4592-9925-0D965D12E944",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

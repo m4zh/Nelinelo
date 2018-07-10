@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9A124620-A38C-4315-B8DA-CB43FAD6B984",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7048DC2D-928D-403A-BBAD-1E91CB69D2E4",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 225
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Message 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2FF834F0-C89A-4F4D-84D6-66F7612E21D4",
+      "overrideName": "81A9C7FE-8F86-4F87-8262-2C1943435455_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "736A7C07-8C59-4FC3-9BCF-974320A35B0D",
+      "overrideName": "E2B2DB66-E45C-42E4-8377-4EFD13FB4358_stringValue",
+      "value": "Manoj Reeta Ibbott"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24701C2A-B082-4B4D-9E5F-9BAF580B2E52",
+      "overrideName": "54E80411-B2F7-4CE2-A497-813B95934276/6AD48E33-AD08-4B19-8575-D1054F4640CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1bc32508fee5fd311c8a74d2a1aa97a723082a1f.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE1AD622-5370-4038-B6FD-5E473A46708B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9B1AC560-ECD5-428A-B31B-F71AB77B02BF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

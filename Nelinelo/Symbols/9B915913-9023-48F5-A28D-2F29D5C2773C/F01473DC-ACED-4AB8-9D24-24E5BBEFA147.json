@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F01473DC-ACED-4AB8-9D24-24E5BBEFA147",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B625DD92-E753-4DA2-B515-F76203D1223D",
+    "height": 211,
+    "width": 160,
+    "x": 487,
+    "y": 395
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Profile / Followers|Following",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA9C0E01-F7D4-42FC-A1D2-12887FFAE14C",
+      "overrideName": "1C556CEB-C1E5-4A10-885F-4EDA2C79CCF9/6AD48E33-AD08-4B19-8575-D1054F4640CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/64c80844c119f6c02c773b037010dbe3e371e167.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6E1B563-CA5A-4198-9550-75F01D0ECCD0",
+      "overrideName": "B70C9998-F08F-4D2C-8064-B68CD2F0B5F8_stringValue",
+      "value": "Seonag Natalia"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8CDC92D5-DAD1-4ED1-9C87-DB9F2B44F3F4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "47CF9FA0-A54F-4DC8-9712-018EF67FBA89",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

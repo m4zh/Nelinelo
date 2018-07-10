@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "3A493C29-2B51-4E44-A1E3-24ED31277A07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0C447690-2F72-4074-9521-99F8C5A531B1",
+    "height": 286,
+    "width": 690,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4B70EDA9-78D0-4162-803B-80FAD308BE36"
+    },
+    {
+      "class": "bitmap",
+      "id": "E3D0442E-5E6D-482F-A61D-8D3E669858FD"
+    }
+  ],
+  "name": "Image Slider",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED3FDA0F-863F-49AE-82C9-DC61467BFFB3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

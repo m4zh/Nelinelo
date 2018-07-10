@@ -1,0 +1,93 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "903C52A1-FCB3-40F4-B318-C23954CCCC45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CCF94B57-46F5-4E5C-9B72-A15E857D877F",
+    "height": 155,
+    "width": 122,
+    "x": 155,
+    "y": 449
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Homepage / Cart Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2FCA15B4-0585-4B88-9811-DAD2724DDE85",
+      "overrideName": "126EFD8C-06C4-4BFF-82CA-EC6F0074396F_stringValue",
+      "value": "Mister Montreal / Super Do..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1AF81E3-6A4B-46F6-AFBD-03A54DCBF89A",
+      "overrideName": "57E07C45-9256-4264-82DA-8CF84BFB03B1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/75c19bfd0d53fe0217ff0c9143e277fc162679ba.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8EA5F799-421E-44C1-B678-8329C944355E",
+      "overrideName": "EC41B919-1E93-492D-9D52-4B236C5BF20F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3d2af484dcf83f44617a7ceea68c0c99f679428a.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D923245B-FA8E-4FBB-94D1-CFFCB7C3A114",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "197C6420-B8FB-442A-AB48-65A06A541D49",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 155,
+            "enabled": 1,
+            "modelID": "constraint_38e0e74c-7e88-4ce2-afdb-bb8b754d053d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 122
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_49074099-79bf-495a-85de-6f193196e0df",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

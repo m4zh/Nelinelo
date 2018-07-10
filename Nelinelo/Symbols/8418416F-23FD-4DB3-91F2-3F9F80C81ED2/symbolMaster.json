@@ -1,0 +1,85 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0D8C8DA4-6375-46DC-947A-53DE0947B37F",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 299,
+  "do_objectID": "8418416F-23FD-4DB3-91F2-3F9F80C81ED2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B90681E7-0A52-4676-B440-97ECB713C5F8",
+    "height": 40,
+    "width": 255,
+    "x": 20946,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8AE16C34-488F-483F-93EF-2FB12573F519",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0652FCB4-9C48-4C6A-9D31-D54D1BF56015"
+    },
+    {
+      "class": "text",
+      "id": "F785712A-E675-4D7A-B670-2175E646944E"
+    },
+    {
+      "class": "text",
+      "id": "3F0D04B5-2C07-4136-BC15-1BDD7E19E729"
+    }
+  ],
+  "name": "Contents / Common / Categories List / Item",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D1FE93B-2C98-4866-9778-D2F87D899D82",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3B4799CF-F99E-4ACC-9467-79E36F09354C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2A82D162-4277-40FC-9313-E3C0D1F866C6",
+    "guides": [
+    ]
+  }
+}

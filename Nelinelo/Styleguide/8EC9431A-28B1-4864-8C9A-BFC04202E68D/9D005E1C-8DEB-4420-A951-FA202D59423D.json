@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9D005E1C-8DEB-4420-A951-FA202D59423D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF2B266F-E606-4131-8C9F-701B38EA529A",
+    "height": 65,
+    "width": 240,
+    "x": 45,
+    "y": 103
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / TextField / Default / Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "976BC654-FC05-4D2D-84D9-7BC8FAC67733",
+      "overrideName": "6F2E9D76-BA9B-487A-A741-F3F9D65A5CF2_stringValue",
+      "value": "Input Field"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB283644-CEC5-476F-A612-25EAA65EE023",
+      "overrideName": "189A0CA5-1358-4A1C-8569-777E021417D6/65CF6599-4B59-4F0B-9E4A-CC8865AE76DC_stringValue",
+      "value": "Choose file..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53F54BB0-8310-4FC1-B2C2-A68B3366D430",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1D077073-5E51-4F6E-BB77-42A6C3D9C66D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

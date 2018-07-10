@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "358815D7-6874-4570-9254-C19E88614990",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 185,
+    "width": 600,
+    "x": 65,
+    "y": 278
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "12D3189A-941B-428B-987D-F37BF7549D65"
+    },
+    {
+      "class": "text",
+      "id": "53DD403B-2320-4B74-8EE4-B9D142DB5895"
+    },
+    {
+      "class": "text",
+      "id": "618841C1-67DA-45DF-92DB-703AD6E4056A"
+    }
+  ],
+  "name": "Bio",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "87BF37B2-485C-4B25-A5DC-A4F5A85FB083",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB2722A4-52AF-4E8B-8530-8A1B0B9CF788",
+    "height": 249,
+    "width": 160,
+    "x": 760,
+    "y": 279
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Profile / Followers|Following",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "08186EE6-2533-45DE-B47C-7E7B74292251",
+      "overrideName": "1555ED04-E5E8-4CD7-A6AC-B2349A1D1D18_stringValue",
+      "value": "@attack.lord"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0965BE4-5CB3-4617-9EA1-10749D18894E",
+      "overrideName": "E4A53153-AAEB-4F4B-96A5-0239E8593C92/6AD48E33-AD08-4B19-8575-D1054F4640CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bf884f954ddedf94b970990ef518dc08772fdac3.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4589C96-F951-4E95-8644-06827FEB8C25",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E91B0902-3915-4E60-BCEC-7A55BAA4E05F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

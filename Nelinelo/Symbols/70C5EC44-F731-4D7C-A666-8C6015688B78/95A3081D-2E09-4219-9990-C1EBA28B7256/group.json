@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "95A3081D-2E09-4219-9990-C1EBA28B7256",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "13A28AD3-D2D0-4F96-860D-C5C94E62A778",
+    "do_objectID": "D5A7D014-829E-42D3-ADFB-244B4476CCA7"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 114,
+    "x": 45,
+    "y": 162
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "17FDBE6B-3A8C-42E5-AD70-13B3D7EC1D97"
+    },
+    {
+      "class": "text",
+      "id": "C812B7EB-B803-480A-9996-D76ACA4947C9"
+    }
+  ],
+  "name": "Shop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

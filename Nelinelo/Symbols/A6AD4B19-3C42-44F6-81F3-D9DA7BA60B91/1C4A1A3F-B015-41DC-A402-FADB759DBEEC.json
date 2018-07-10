@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1C4A1A3F-B015-41DC-A402-FADB759DBEEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 65,
+    "width": 240,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / TextField / Default / Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9ED98FAF-933A-4E08-BD7A-CBE28702A1ED",
+      "overrideName": "189A0CA5-1358-4A1C-8569-777E021417D6_symbolID",
+      "value": "E11FB6F2-33D4-4A03-A917-6538BDD2086B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "440C8D73-00D1-4187-9933-D5A293969F2B",
+      "overrideName": "5FD88FC2-DE32-490D-A355-F095EC35C047_symbolID",
+      "value": "0AC748AE-36D4-48DB-ABCE-6A4882E350D2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1D077073-5E51-4F6E-BB77-42A6C3D9C66D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

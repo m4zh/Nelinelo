@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "976E7E6A-610B-4FED-9DC2-246554C26FF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39E3A252-94B1-4CC7-8B37-893481D8ED6C",
+    "height": 168,
+    "width": 118,
+    "x": 22,
+    "y": 662
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DDA91A7-FAB5-4084-9966-A3F2A1EEC516",
+      "overrideName": "9D7E485C-C725-4222-9B4C-55075F598468/DCEABCF2-D6B9-49D8-8D22-D8067C4F84EF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/884bdc0a695a55f7c33b6b2b6d14cf3316894777.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8F74E37-D871-45F7-83E6-4C29276929CD",
+      "overrideName": "E0B45385-828C-41B9-BCE2-4A28CBE2CF35/318C8F35-60C9-4C87-B234-BA6F5BA109A2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/dda371a8c30e34bfea45906628c1226b6d911e49.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C882A52-524E-462E-BFCA-CB7354EC4B98",
+      "overrideName": "A806D10E-7B12-40C2-B269-3C46C1F7666D_stringValue",
+      "value": "Honeycomb Studio"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8CF1FF7C-FA0A-47ED-887B-BD383A2FC365",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "50596BD8-91F7-490F-87F2-B656FEE0231A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

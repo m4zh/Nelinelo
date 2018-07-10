@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2FA9BD2F-D4D3-4EE9-B995-1DB4C45EF62E",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1358,
+  "do_objectID": "3CC5E531-60CA-49B0-9948-D0E315977E99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39C9239A-B661-442F-BD45-6060BC8DEF43",
+    "height": 40,
+    "width": 120,
+    "x": 58792,
+    "y": 1440
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1E630FDE-C5F7-4673-B9D0-878F7AEBA725",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "504A8C76-253F-483F-A974-1B8CCBC73420"
+    },
+    {
+      "class": "text",
+      "id": "D7F12EAD-086B-4C57-9440-120EB25D62FD"
+    }
+  ],
+  "name": "UIKit / Button / Outline / Outline Button Focus",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "902ECF52-C420-4F0D-90B4-C1C64E4D9674",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "97B617D1-E19F-405C-8BB3-D38F3A190CFB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CA759B1A-EEE5-461E-A026-C4136C4EE47D",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AA8972A4-8142-4D0F-8E26-71F19522FEC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3DB41DCA-1335-4E94-92B2-C27F7C2EAE84",
+    "height": 65,
+    "width": 240,
+    "x": 46,
+    "y": 1183
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / TextField / Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "795C3E7D-8942-4792-B10C-7114F7E088DE",
+      "overrideName": "5FD88FC2-DE32-490D-A355-F095EC35C047_symbolID",
+      "value": "F1B377F9-A8D6-476D-9DD6-7F310C0068B2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E23CD375-B1CD-4F99-A83D-546864B769E8",
+      "overrideName": "189A0CA5-1358-4A1C-8569-777E021417D6/507EAD5D-6904-468C-99FB-CD06F3731F65_stringValue",
+      "value": "This is text"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E110D3BB-EE12-4BD9-A364-9B767768AAF5",
+      "overrideName": "189A0CA5-1358-4A1C-8569-777E021417D6_symbolID",
+      "value": "A416FEC2-3089-4A91-BE7D-3776269952FC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AAFE2BA-F35A-4981-B005-F77CEDF6F50F",
+      "overrideName": "6F2E9D76-BA9B-487A-A741-F3F9D65A5CF2_stringValue",
+      "value": "Disable"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E11250E-1A73-4814-88EA-85B363623F09",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1D077073-5E51-4F6E-BB77-42A6C3D9C66D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

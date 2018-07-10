@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "F34AE37B-81E4-4F60-A531-69D5DAE57498",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D16A5616-9237-4E7C-81BB-47F9FCEE7A32",
+    "height": 65,
+    "width": 245,
+    "x": 580,
+    "y": 171
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2BF8BEC5-9F10-4380-AFCF-E02CA64D3AA3"
+    },
+    {
+      "class": "text",
+      "id": "BC14EB1C-6675-4506-807C-3C16FC53C6D0"
+    }
+  ],
+  "name": "UIKit / TextField / Split Text",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "821508EB-1C0B-4F0D-B094-B90FEC6F0DEA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

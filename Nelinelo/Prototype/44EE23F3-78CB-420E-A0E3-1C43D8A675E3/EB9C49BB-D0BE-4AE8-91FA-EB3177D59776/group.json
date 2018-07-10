@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "EB9C49BB-D0BE-4AE8-91FA-EB3177D59776",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "389A0B55-165F-4D82-A85F-EBB368F31818",
+    "do_objectID": "7AA87EF3-54CF-416E-B924-D52793D9D70C"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "45CE7C17-AB2A-48C1-91FD-DCC8CC78280A",
+    "height": 42,
+    "width": 166,
+    "x": 720,
+    "y": 258
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "894812D7-4B1E-4EEC-B250-07D45216E38D"
+    },
+    {
+      "class": "text",
+      "id": "28AE1127-6A60-4F10-B51B-9DBE7D4D4D4C"
+    }
+  ],
+  "name": "Group 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52E782AB-6D27-4A07-9D35-ABFD718732FE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "_class": "page",
+  "do_objectID": "66229A45-EEF3-458C-8B06-BE7D47CC8EBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -279,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "1BB81429-F344-4993-9ED7-CD13A9528C5D"
+    },
+    {
+      "class": "artboard",
+      "id": "778FF28D-9849-4222-8311-EC4A1AA2C969"
+    },
+    {
+      "class": "artboard",
+      "id": "73D072EA-8603-4D69-AD00-3B17B09BB662"
+    },
+    {
+      "class": "artboard",
+      "id": "696F0729-E1F4-4462-9621-A6F71EFAA2B6"
+    },
+    {
+      "class": "artboard",
+      "id": "BEF24B4D-1B94-4CEB-A18F-E9F61076E5EB"
+    },
+    {
+      "class": "artboard",
+      "id": "6B2B1D18-1508-4003-9FA5-EE490C6F67DB"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Pages",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -232,
+    "guides": [
+    ]
+  }
+}

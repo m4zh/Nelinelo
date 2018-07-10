@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4A9A3DF7-3FD5-4870-8C35-7120E75702A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F32C1335-6EDC-4D11-9F22-4CC4DD4B7EC1",
+    "height": 108,
+    "width": 220,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Auth / Shop / Step 2 / Pricing Option",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8EF94C82-7DED-48E0-A15C-A332607E8CD0",
+      "overrideName": "11425927-A147-45A7-9FA6-626234B5DEC2_stringValue",
+      "value": "PRO PREMIUM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09CCFE2E-8A51-40DB-9B7D-17934B521F73",
+      "overrideName": "9225747D-B731-493C-B422-99C0CBED3945_stringValue",
+      "value": "29"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "90211381-14C7-4842-8C38-E9DB641D3A47",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CF19B87A-0D14-4D99-885A-165969090D55",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

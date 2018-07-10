@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0612C974-9535-475F-BE4F-019637A21E12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A6F6DBF-4898-43BE-902D-B4F7B54182C0",
+    "height": 65,
+    "width": 240,
+    "x": 47,
+    "y": 1091
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / TextField / Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "795C3E7D-8942-4792-B10C-7114F7E088DE",
+      "overrideName": "5FD88FC2-DE32-490D-A355-F095EC35C047_symbolID",
+      "value": "0AC748AE-36D4-48DB-ABCE-6A4882E350D2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31911E35-96D8-42EC-B174-DB47C34EF136",
+      "overrideName": "189A0CA5-1358-4A1C-8569-777E021417D6_symbolID",
+      "value": "E11FB6F2-33D4-4A03-A917-6538BDD2086B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FD918CA-D3D9-46D7-8EF9-A45F6FFCCBD9",
+      "overrideName": "6F2E9D76-BA9B-487A-A741-F3F9D65A5CF2_stringValue",
+      "value": "Focus"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EEE7DCC2-943D-4C52-9BCB-55A98B1FEC1F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1D077073-5E51-4F6E-BB77-42A6C3D9C66D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

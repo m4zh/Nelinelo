@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "1B20A601-E8FA-4E44-A59B-077A7A6E1FED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C79EB98-AAF9-4B6F-89EB-8ACC1C2B8E48",
+    "height": 40,
+    "width": 245,
+    "x": 30,
+    "y": 110
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6AA57C1A-054B-4AFE-AC57-08657E109239"
+    },
+    {
+      "class": "text",
+      "id": "4BC78F4C-591F-46F8-8C7D-E3398FC0AD7F"
+    }
+  ],
+  "name": "UIKit / Button / Outline",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49EA1DD1-4D77-4A9C-8B5E-DBF6B3FCFE83",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "do_objectID": "8432D008-8453-4A3E-94A8-5B5E25014160",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "28523136-7B53-41A6-893D-B80E42A4E1CF",
+    "height": 16,
+    "width": 15,
+    "x": 213,
+    "y": 40
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5CAD1ED1-5A05-4C52-B8CC-E670FBC5611C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27B7D0DE-31BB-4E0C-9D4C-2829304BCA1B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC723635-9961-4DA4-9D2D-796ADCFABBBE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E651A80-3953-4462-9BF3-26C05CBD2FAB"
+    }
+  ],
+  "name": "calendar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "303B57D7-DA59-469C-AD65-542422129175",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_8761c761-b46b-4549-b30b-d65510fde5c5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 15
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5f8086d0-e6cd-4814-a8ef-060ab8092b19",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

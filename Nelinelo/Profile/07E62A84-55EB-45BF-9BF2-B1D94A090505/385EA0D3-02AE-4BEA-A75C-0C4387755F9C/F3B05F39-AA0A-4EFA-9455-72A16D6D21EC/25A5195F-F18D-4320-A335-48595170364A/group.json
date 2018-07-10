@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "25A5195F-F18D-4320-A335-48595170364A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 20,
+    "x": 30,
+    "y": 22
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E1034F0E-0127-4D2A-BCBC-21AA901C20B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B12CA9C-F6ED-4942-953B-6E39AE017D26"
+    }
+  ],
+  "name": "Icon / Kits / Camera",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_ec8afb50-1501-41a8-9f41-f0bff4e6efba",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 19.55556
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_4836a3ef-9748-4c1b-b238-efec38339d92",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

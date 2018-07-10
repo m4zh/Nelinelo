@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9587495F-54CD-4A4C-91F0-E179901752A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5833E1F3-E9F4-4C59-97CD-153AAB7DABA8",
+    "height": 65,
+    "width": 240,
+    "x": 46,
+    "y": 2360
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / Dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D013EA73-F15A-4866-9788-64D47308E32C",
+      "overrideName": "46A4D3AF-6285-4C53-B68F-57A7E5F4C7C5/51D212A3-00DC-480C-816A-F013EA0B645F_stringValue",
+      "value": "Choose options"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E73D397A-C531-4D15-9F04-B3DEA29D95FA",
+      "overrideName": "C7CE0EE1-BB1C-42C1-B2B3-8A9A6BB97DDF_stringValue",
+      "value": "Default"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B43908A-2DF6-4E19-AF5F-B27B8D7FA298",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "36BD7CBE-2A7C-43A4-A3B8-DDF808EF3DC6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

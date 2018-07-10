@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4CA7E6C4-73DE-47FA-8A4A-12D2342CE689",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10238A1F-000B-4172-AA82-64E9AB43A001",
+    "height": 60,
+    "width": 580,
+    "x": 430,
+    "y": 536
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Pricing Page / Swtich Price",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F6D62A3-BFB4-4774-BBAE-116B97E11C4C",
+      "overrideName": "79C23956-0738-4D56-B304-F7E480F1DDFC/AC5ABEDB-5F50-4AED-A74E-D41E28DA48B4_stringValue",
+      "value": "YEARLY - 99 CAD off!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C24487CA-7AF5-4F9B-BD8C-75AAB0F9A245",
+      "overrideName": "79C23956-0738-4D56-B304-F7E480F1DDFC/427DFC76-5CB7-4AD7-88F2-42975992D084_symbolID",
+      "value": "24A7DFD5-1726-4F26-9A87-774BA6D82BEC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A43C9177-FD2D-44C2-A2B9-343FCD17445F",
+      "overrideName": "79C23956-0738-4D56-B304-F7E480F1DDFC/1C31DDB1-BEC7-44A0-B7A9-C229E22E25B7_symbolID",
+      "value": "53985EEB-A7CE-45E9-97D1-FFC22BEED9DE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11637C58-94FE-424D-A1DF-FA8491D612E2",
+      "overrideName": "79C23956-0738-4D56-B304-F7E480F1DDFC/1C31DDB1-BEC7-44A0-B7A9-C229E22E25B7/C3346EA8-C292-4B94-A208-3D67C0D4C988_stringValue",
+      "value": "adsadasd asdds"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "105203C8-4C3E-42DD-869F-F8186F38B568",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "70D8DD4D-35D6-452B-BBCE-CE3735421612",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

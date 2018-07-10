@@ -1,0 +1,114 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7B7A32F8-703C-4FD3-A01F-7E67DA7F9EB4",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 5161,
+  "do_objectID": "63F0830D-B56E-42CB-8F41-C3E07BC22543",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B4A665C4-7DBE-41B7-BA25-CF33C3786FD4",
+    "height": 45,
+    "width": 288,
+    "x": 5006,
+    "y": 877
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "28E6C55B-2CDC-44E6-8957-18DF1D7F5AE2",
+    "guides": [
+      56,
+      288,
+      37
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A783572C-9B2D-4983-A8B0-7D0ADEA92EE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE777B6C-5435-4030-8CBC-6D3B2E72A2AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "44F1BE76-64E0-47D9-8076-6B90B0189899"
+    },
+    {
+      "class": "text",
+      "id": "358A6D7C-F9DF-4CCB-AFB6-E1716A477D3E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "do_objectID": "A82FD230-4F23-4EEE-959F-858E5092A487",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "Bar / Header / Notification / Notification / Followed Multi Profile",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3AC1359A-8244-4931-95CA-BAFA86CB6CBC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "847F4AB0-C2E8-436D-AEBB-FD2A12C42C4D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4179F4D3-D1A1-484A-AEBD-BD883330E37A",
+    "guides": [
+    ]
+  }
+}

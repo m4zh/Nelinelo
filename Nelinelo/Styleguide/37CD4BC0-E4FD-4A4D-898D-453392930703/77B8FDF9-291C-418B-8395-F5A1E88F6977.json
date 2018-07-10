@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "77B8FDF9-291C-418B-8395-F5A1E88F6977",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6DA3B6B0-13F1-473F-91D2-041B541B7889",
+    "height": 65,
+    "width": 240,
+    "x": 686,
+    "y": 2722
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / Dropdown / Dropdown Icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "253B8019-C913-42A2-ABB5-13710A53B150",
+      "overrideName": "4D6BD637-DD9F-4681-85C3-FFB21BF94F62_symbolID",
+      "value": "4ED42118-47F9-4B52-87B0-6B83CA90F16E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A84482B-2FB5-40AA-B33E-DCA211273C23",
+      "overrideName": "0FE0B5DE-D4E4-4D53-909D-B786F22FE636_symbolID",
+      "value": "6A751B42-17A6-4164-AFE3-8BB0FFF9A105"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F1AFA797-3AB2-4A9C-BC5E-197215513C0D",
+      "overrideName": "4D6BD637-DD9F-4681-85C3-FFB21BF94F62/9DF09DD8-86D1-476C-8F96-358524AD2402_stringValue",
+      "value": "0123456789"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4D139F2-2D42-495E-9808-47CD8B7E1709",
+      "overrideName": "870B0DD8-8403-4923-A05E-040F7E902E5A_symbolID",
+      "value": "3A4A5705-DC46-4216-B1FD-5615DD31AFCD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5FC0DE3-96CB-4425-ABFC-B6A4ADFCAC4B",
+      "overrideName": "A9A7DD31-E244-46C5-9853-421EBD917986_stringValue",
+      "value": "Disable"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "891D424A-2222-473B-A342-4536DDD9ACB2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9A9F2EAD-2B6F-422A-AC20-0FBB65CBF471",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

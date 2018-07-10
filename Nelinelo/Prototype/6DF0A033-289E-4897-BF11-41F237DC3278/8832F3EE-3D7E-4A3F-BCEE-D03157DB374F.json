@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8832F3EE-3D7E-4A3F-BCEE-D03157DB374F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 313,
+    "width": 255,
+    "x": 165,
+    "y": 2086
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "18434686-E6D3-4772-BE48-689ED3A9DCBE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/603c576d94907a51886a382bedae0bf0fb6865b9.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "45757FC8-B601-4BFB-86E6-2BA3A52FD945_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9266fee8d4df04134271436ee3b43ef044ea5330.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1BDB539-2096-428B-83FC-0F6E876E88B1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4ba4d4a584c68978c6c2b8d5e78bd1bd95185789.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9B734B75-5E07-492A-B459-009A96E9EC30_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/718f021541d4997febc16c2076cb127bcd41ca33.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2C66ABB-7656-4084-BABB-990F112A99B1_stringValue",
+      "value": "Electrical devices"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3BC8DB3A-1CA3-457A-833C-91A305F2DD51_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "619207EC-4A40-429E-BAA9-DF3BFF450BE4_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2351EB98-09D8-4966-A2E9-19E9E1064368",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

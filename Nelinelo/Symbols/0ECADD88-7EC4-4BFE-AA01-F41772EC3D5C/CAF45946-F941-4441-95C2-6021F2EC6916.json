@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CAF45946-F941-4441-95C2-6021F2EC6916",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D1E0F3E-ECDF-4773-9504-D5291BEFD78F",
+    "height": 93,
+    "width": 320,
+    "x": 0,
+    "y": 63
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Post 1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F382E93-6BF7-4CEF-A8EC-106683A1CD53",
+      "overrideName": "44ACDE15-06F0-41EC-AC6A-952088E6492A/9453D8CC-8BFF-4C36-A0C8-FC5B2B30A000_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1bc32508fee5fd311c8a74d2a1aa97a723082a1f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD190227-F27E-40A1-9C63-F9372A715318",
+      "overrideName": "865E3ABF-5013-4D88-A5C2-020C49B80571/D05CC224-D236-4DE7-BF42-B19B1F003B79_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5593c915f3ac5d8decd7f1a6f01644b24e3ba3b6.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7932D2E7-030E-4650-8CA2-8FC1F8CD268C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BEF92E4E-44A9-44B5-8585-5433D21C0315",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

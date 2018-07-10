@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "5DB06F94-FC0F-4D5D-A740-5C7FF2795838",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 463,
+    "width": 540,
+    "x": 450,
+    "y": 130
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3E911156-1D3B-44AD-A3B0-515A4ECFF1D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48229AE0-A1D1-465E-8BC4-67453CA3FDCD"
+    },
+    {
+      "class": "group",
+      "id": "60D9320E-C378-426D-8931-90D159FBD3A0"
+    },
+    {
+      "class": "group",
+      "id": "36277084-FE2B-44A5-A8CA-BA3D4A144826"
+    },
+    {
+      "class": "group",
+      "id": "D82D5B42-AC04-40D7-B911-0ADA4DF3572F"
+    },
+    {
+      "class": "group",
+      "id": "C15E4989-9520-4A3C-81FE-1486EBC10728"
+    }
+  ],
+  "name": "Setting Modal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

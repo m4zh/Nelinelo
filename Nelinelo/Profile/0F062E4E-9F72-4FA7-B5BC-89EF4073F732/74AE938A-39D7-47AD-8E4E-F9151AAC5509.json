@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "74AE938A-39D7-47AD-8E4E-F9151AAC5509",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "302EE2CD-BAB7-4A47-B830-386EA1D5692D",
+    "height": 624,
+    "width": 1440,
+    "x": 0,
+    "y": 60
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Profile / Shop / Header / 1440px",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90109B3C-ADBC-423C-96CA-9F405DB87524",
+      "overrideName": "ED8B96E7-1390-446B-B756-0F498972FE14/13679C9C-2220-4EFD-AEBC-02D5FF24389C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9DB8A135-FE7D-49CE-BB4E-FD9BD2EB4364",
+      "overrideName": "ED8B96E7-1390-446B-B756-0F498972FE14/64D198B9-1629-4D32-A008-856B670DA70A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "687C8B92-5B61-4250-A800-E9E944113117",
+      "overrideName": "ED8B96E7-1390-446B-B756-0F498972FE14/71F2974E-816B-40EB-B882-0BDC4DFD6F43_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3F8F35A-EA12-41AE-8CE4-8910B8B890CB",
+      "overrideName": "ED8B96E7-1390-446B-B756-0F498972FE14/8850BA6B-74AE-4952-85CD-02AA0EDA8594_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1220B30E-3375-4BFA-B7A2-F40566F6529E",
+      "overrideName": "C15E78D3-268A-41D7-BF8D-658CC6D9A6D3_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02A32FC1-0C94-4A64-BFFA-5A89A941C807",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "60765648-361A-4BA6-A36C-524338910508",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "do_objectID": "2A971AB0-B414-4DAF-8DBA-C450B2BC1A90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D4BF1299-FF10-400B-A776-A6F931E48867",
+    "height": 485,
+    "width": 855,
+    "x": 420,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D6A574BC-3837-4B9B-A047-215CF60F7DF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1782BBAC-D6C8-4F48-9E42-931D94957DA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D377967-4E74-42F9-B34C-63E58B633BC7"
+    },
+    {
+      "class": "text",
+      "id": "0DD8A507-CD09-47E8-93A4-D05AFB5630E3"
+    },
+    {
+      "class": "text",
+      "id": "8DDF5A81-BD15-4B93-9D0B-7B30E6BE41F6"
+    },
+    {
+      "class": "group",
+      "id": "2EC33029-93BB-4D63-B5DD-FAA5B8EED012"
+    },
+    {
+      "class": "group",
+      "id": "1865552E-D021-47C5-A7FC-723F56A34889"
+    },
+    {
+      "class": "group",
+      "id": "A11023B3-9ED2-40BD-A2DE-B360CD28482A"
+    },
+    {
+      "class": "group",
+      "id": "0DADAAEC-BA6F-4326-90A3-4E63374ADCE0"
+    },
+    {
+      "class": "group",
+      "id": "43906534-C186-4B5C-845D-7F14FA90A09E"
+    }
+  ],
+  "name": "Counpon Promotion section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00A85184-C468-432D-B123-19C7115AF5CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

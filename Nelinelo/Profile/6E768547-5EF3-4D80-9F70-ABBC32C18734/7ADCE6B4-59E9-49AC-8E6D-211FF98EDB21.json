@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7ADCE6B4-59E9-49AC-8E6D-211FF98EDB21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C6D0CE3-7166-432F-918F-D68F8B2C62EE",
+    "height": 44,
+    "width": 87,
+    "x": 960,
+    "y": 1413
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Profile / Shop / Public / Contents / About / Opening Hours / Time Picker",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "86FB8297-D12F-4B65-ADFF-1F229B4D8235",
+      "overrideName": "C186F9A9-FEB5-4FB6-A8CA-B92539C591BE_stringValue",
+      "value": "PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC54AC36-C67A-44EF-9028-4DD5577E7D06",
+      "overrideName": "F67E90DE-754C-4817-9511-3FF07E56FEE4_stringValue",
+      "value": "7"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "289768EB-974D-4FAD-B591-DD375CDF3430",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DD213480-1E7C-4805-8CCD-9A949FCBFBF8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

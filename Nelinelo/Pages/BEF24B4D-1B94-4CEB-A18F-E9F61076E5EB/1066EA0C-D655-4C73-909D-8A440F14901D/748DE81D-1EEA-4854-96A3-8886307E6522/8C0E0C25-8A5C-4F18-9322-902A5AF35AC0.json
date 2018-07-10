@@ -1,0 +1,69 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "8C0E0C25-8A5C-4F18-9322-902A5AF35AC0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4A4BB2FE-E8CE-40B3-B28F-38044349A5A3",
+    "height": 37.32824427480924,
+    "width": 140.6068175139586,
+    "x": 38.57777777777775,
+    "y": 63.13380281690127
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/7ec328dd999a4c7c7c132853d24376d88e2b0798.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "FedEx_logo_orange-purple",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ADD8EE94-B322-41F9-AAEF-4E838FEAC673",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 32.51908,
+            "enabled": 1,
+            "modelID": "constraint_e475dca2-89ad-41d2-a039-27af654f2fe8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 116.6324
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_0afeaa8a-acc6-41bd-b44d-3663fda32ed4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

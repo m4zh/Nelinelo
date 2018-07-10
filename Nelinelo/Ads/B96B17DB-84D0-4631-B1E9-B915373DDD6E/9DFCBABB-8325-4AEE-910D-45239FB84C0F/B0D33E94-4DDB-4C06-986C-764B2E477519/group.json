@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "B0D33E94-4DDB-4C06-986C-764B2E477519",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D036FF8-68F3-4E39-AFE3-40D24F4E9BA6",
+    "height": 65,
+    "width": 245,
+    "x": 305,
+    "y": 252
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "17A0FFD7-A104-4369-85C6-9DF94E9DF267"
+    },
+    {
+      "class": "text",
+      "id": "4D438BF6-B9C4-4F6D-B5AA-968A37381E98"
+    },
+    {
+      "class": "text",
+      "id": "FE58BF00-08B1-4387-B240-AD7E4B2C3BEA"
+    }
+  ],
+  "name": "Name of Coupon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CD3A2DAE-176A-413C-BCD1-A2EC482A98E7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

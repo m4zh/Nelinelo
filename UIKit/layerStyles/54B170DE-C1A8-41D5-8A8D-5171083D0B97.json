@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "54B170DE-C1A8-41D5-8A8D-5171083D0B97",
+  "name": "Color / Warning",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.819718070652174,
+          "blue": 0.2941176470588234,
+          "green": 0.6509803921568627,
+          "red": 0.9803921568627451
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "54B170DE-C1A8-41D5-8A8D-5171083D0B97",
+    "startDecorationType": 0
+  }
+}

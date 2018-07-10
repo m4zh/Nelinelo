@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "28B830E5-17E5-4324-A5AF-72CF89FDC33F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1DDB68A7-892F-4636-989C-78E76CE306FA",
+    "height": 108,
+    "width": 220,
+    "x": 231,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Auth / Shop / Step 2 / Pricing Option",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A8CB857-5FA1-42B6-B0A0-7B2BA227AB89",
+      "overrideName": "9225747D-B731-493C-B422-99C0CBED3945_stringValue",
+      "value": "129"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED5174CD-76A0-4863-BEBC-3C20CED16686",
+      "overrideName": "D594B91C-3B49-4BE0-B967-C36FDAF2B2C6_stringValue",
+      "value": "CAD / year"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "15078CD5-ABFB-4A18-98BC-30464F79B6F1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CF19B87A-0D14-4D99-885A-165969090D55",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

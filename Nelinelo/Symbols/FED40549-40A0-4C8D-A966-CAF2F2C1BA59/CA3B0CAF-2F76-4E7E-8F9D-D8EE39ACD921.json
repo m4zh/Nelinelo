@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CA3B0CAF-2F76-4E7E-8F9D-D8EE39ACD921",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5976BD2-C45F-4A6C-B54D-AF997441AF0C",
+    "height": 36,
+    "width": 197,
+    "x": 87,
+    "y": 73
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / Button / Button Size / Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E782D3F2-A194-4646-A058-58FAC9348576",
+      "overrideName": "9E33B66A-F2F6-4957-8C34-839A1D965C30_symbolID",
+      "value": "D794A43F-034B-4B68-8FD4-190C5085425E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABBFE608-8B31-454B-AC75-A4E2AA9F756F",
+      "overrideName": "9E33B66A-F2F6-4957-8C34-839A1D965C30/3B60FAC9-B751-4F9E-B966-F5DD3293C172_stringValue",
+      "value": "Start your free trial!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71952E3C-FBE0-4FBF-A877-D53CE1E5B2E8",
+      "overrideName": "7381F38C-7646-46A8-A161-DED79149BDDB_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA3AF5B0-FB0E-4784-9CD0-B62446177322",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E7DB0651-5A1C-4985-98CF-3B336DDF8CBD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

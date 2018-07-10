@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "28C1ADA3-DAE6-4EDF-97A5-0A3182B7EF4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 108,
+    "width": 108,
+    "x": 543,
+    "y": 368
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "74746110-16B3-447D-B2F1-338ED8989106"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4328DE9B-09EC-4CD5-8A43-591E61C677B7"
+    },
+    {
+      "class": "text",
+      "id": "844F3730-950E-4D35-B429-66EF10B2B9A3"
+    },
+    {
+      "class": "group",
+      "id": "461CC096-5B8C-43FE-9B71-48A1CE3A9719"
+    }
+  ],
+  "name": "Contents / Auth / Interest Modal / Item",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

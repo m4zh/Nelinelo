@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "74D924D6-6E6A-4F3D-B67C-BEB8E07D1588",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A0DF965-1A09-4EBA-92A3-FF2C3C0F564B",
+    "height": 313,
+    "width": 255,
+    "x": 0,
+    "y": 343
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 5",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "811C00A2-E404-4A92-867E-B70AF1878F01",
+      "overrideName": "9ABC80BB-78CB-43E6-A6C0-CE38A5B63065_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9b698956329ec3e7f95ccf26e84f2b54066f109e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A41D691-E65A-4413-A1B9-6C4844B798D0",
+      "overrideName": "B98A1C2E-99A4-421C-8874-35C233249F62_stringValue",
+      "value": "Kid's clothing"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B88E1D27-4B81-4ADA-BBAE-B753150454A6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0A86F396-01CF-486A-9246-92AC2EB8E314",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

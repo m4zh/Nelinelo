@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "B15AEFC3-91F8-40DA-BEAE-DBF64F13D580",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19.16666666666665,
+    "width": 19.16679713744904,
+    "x": 0.4166666666666714,
+    "y": 0.4166666666666803
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1947B06D-2A41-4C28-99F4-3E37BCC042B5"
+    },
+    {
+      "class": "shapePath",
+      "id": "2A9C1DB7-6F38-458E-8611-D1EC6E83B16D"
+    },
+    {
+      "class": "shapePath",
+      "id": "4FC812D8-D39B-4E5D-B861-7DC7F1DBC1B6"
+    },
+    {
+      "class": "shapePath",
+      "id": "43A14CAB-0ABF-4FDC-AA62-F05BA2E52ACE"
+    },
+    {
+      "class": "shapePath",
+      "id": "CAE74D34-5B65-42DE-8A7D-E5ED5DE20084"
+    },
+    {
+      "class": "shapePath",
+      "id": "E767C30A-585C-4C76-98ED-7A3353A9CD4E"
+    }
+  ],
+  "name": "Icons / Shopping Cart",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A82F5D1E-278A-46FD-8CF5-34E767B928A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6FF4295F-C2B9-4E77-874F-A74D39B142CD",
+    "height": 130,
+    "width": 371,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Pricing Page / Table / Col / Content / Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "849EC611-0DF1-44D7-BA57-E859F7BA895C",
+      "overrideName": "4A150846-B689-47EA-8A88-10336958F333_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1859668-6534-490B-8EB5-BB71D0DB3650",
+      "overrideName": "8A406C07-4E3A-4F49-BAF7-07852A0823EB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E1C13DBE-3248-4B32-828B-B432BA983355",
+      "overrideName": "75573A3D-2D19-48DA-93EA-944C58875E7F_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "45009B29-267B-4242-84BB-9F660CDFF4B7",
+      "overrideName": "5BB6D41C-EB90-4E36-BB61-1517C5D53ECF_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9DCE8AF7-326B-4759-A824-BF9C5CDAF277",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2F10F71C-9D0E-4A3A-8C1B-CA406CBD6C05",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

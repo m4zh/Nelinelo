@@ -1,0 +1,100 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 426,
+  "do_objectID": "7833542B-AC28-4AEA-8BCE-0E2EEEAE5BC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 150,
+    "width": 130,
+    "x": 18273,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4B78FD39-4468-4802-A832-FFE24CCE11AF"
+    },
+    {
+      "class": "text",
+      "id": "7AD08614-2AF2-4BEE-B501-E7E3AC15D7A5"
+    },
+    {
+      "class": "text",
+      "id": "FC80C9F6-2F77-4FA0-BC4E-F79F62445ED3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7CBCD9C0-48C0-4361-A145-27A088860397"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "501AB068-A206-414B-9864-38DFA2B036CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CC0BC05-C856-4EE5-BE55-6049DAC52851"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97C82492-2233-496C-85A7-3CBB62AC4248"
+    }
+  ],
+  "name": "UIKit / Tabs / Left / Left",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E200D7B3-64BC-4027-9522-81BB451A9696",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      0,
+      50,
+      150,
+      100
+    ]
+  }
+}

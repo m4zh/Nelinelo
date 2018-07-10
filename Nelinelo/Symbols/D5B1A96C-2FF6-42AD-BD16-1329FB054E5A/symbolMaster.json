@@ -1,0 +1,112 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "56E77234-1C46-4949-B22F-FA6782AC8FCA",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 3309,
+  "do_objectID": "D5B1A96C-2FF6-42AD-BD16-1329FB054E5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "249A1719-89AB-4378-AF48-CAECB17D8CD7",
+    "height": 40,
+    "width": 690,
+    "x": 9322,
+    "y": 1200
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2E31271B-C3BD-4099-BF85-8E2180EB42C3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D532D12E-EB59-4CED-AEC7-6319B63F979C"
+    },
+    {
+      "class": "group",
+      "id": "F9D680CD-8C4A-44C9-98C9-2F3C790AA704"
+    },
+    {
+      "class": "group",
+      "id": "26C76CD6-8E9A-4620-A1B7-5D9EDD6B0A3D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F5E559A-BAE0-43B4-B434-C1534C6A6E33"
+    },
+    {
+      "class": "text",
+      "id": "9A06D0B8-8F93-4EDD-9565-426BD764B7B3"
+    },
+    {
+      "class": "text",
+      "id": "2BCAB455-192B-479A-982B-0AD31B594E30"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "Bar / Header / Search / Normal 720",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "373922CD-3810-4FB2-B336-D35384515C6C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B6EA8822-F881-4805-A42B-05451CBD9209",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "588598BE-5DD4-44FF-A74D-5B95D3F9E4CC",
+    "guides": [
+    ]
+  }
+}

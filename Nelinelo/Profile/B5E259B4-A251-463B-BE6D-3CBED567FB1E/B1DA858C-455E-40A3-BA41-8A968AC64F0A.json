@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B1DA858C-455E-40A3-BA41-8A968AC64F0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F5DDAA2-D555-4170-9DC3-C7EECD08182C",
+    "height": 562,
+    "width": 730,
+    "x": 355,
+    "y": 125
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Profile / Individual / Owner / Collections / New Collection Modal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F4E5A32-1B38-4E07-918F-5E4FB923A4F0",
+      "overrideName": "8D551194-78DF-44E3-BA8A-DC2B8D6AC3F5_stringValue",
+      "value": "Handmade stuffs"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF8BDDF8-C7D2-4690-BB7A-D8E84C4C4521",
+      "overrideName": "B8026C97-340B-4780-A642-C39EF985D969_stringValue",
+      "value": "Edit collection"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "92C5F258-03EC-47D7-829E-61D58F88AA18",
+      "overrideName": "32C5CE4D-271E-4C77-A8E3-4AC0C5D0287A_symbolID",
+      "value": "4C32C1EC-FE29-47A1-B615-B57128399C5C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ABCB03CC-3337-45FC-A384-568136D45940",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EFD54F3D-C835-4DF7-95E5-35273DDF6E1E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

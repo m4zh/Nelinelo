@@ -1,0 +1,158 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 23,
+  "do_objectID": "20A79F0F-D9DB-4660-AA8A-4CAB921FC48D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "@1.5x",
+        "namingScheme": 0,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 170,
+    "width": 417,
+    "x": 382,
+    "y": 240
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CA68C94C-6DCB-4179-97CF-97AEFC3DCAB1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D8171E86-C163-41D2-B324-89879383D705"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8AEE8276-923D-41D2-A527-D8B68C6BF586"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E10C4E4-1102-434B-8630-A483EBC30F9E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FB7B098-98BC-411F-B672-9031F89CD405"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25677EDA-952C-497C-B730-10C1C44323C3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "239C5033-3B44-47E1-A870-75D670C75B16"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "94922F5D-D925-4A92-9AF0-6731C6522231"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BB692E31-52C1-48C1-A589-D99424F932E7"
+    },
+    {
+      "class": "group",
+      "id": "9EB13CC2-0843-4407-95BE-AF7303753B81"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "35D470C0-50CB-47FC-B5EC-A86672431C8F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3EB5E810-2B32-4FFB-8E75-B181464664C0"
+    }
+  ],
+  "name": "Logo / Primary Beta",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "04BE3D5D-C927-486A-A0F2-8BD33FFD6FB5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

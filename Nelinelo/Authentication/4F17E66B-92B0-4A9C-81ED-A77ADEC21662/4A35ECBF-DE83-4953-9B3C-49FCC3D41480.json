@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4A35ECBF-DE83-4953-9B3C-49FCC3D41480",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 789,
+    "width": 540,
+    "x": 450,
+    "y": 125
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Auth / Step 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF362F49-ABB1-4E9F-A409-BD3D40B3C1FC",
+      "overrideName": "D48AF5A0-BF0F-487D-9B75-E1639F3552A0/99BC320B-BD95-4393-AECB-51F7F0FFDB19_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c90f3afe9c2683bd1d85c93aef14f93f1230ebf4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7F38BEE-E325-4F1F-A901-8549326BA7DA",
+      "overrideName": "D48AF5A0-BF0F-487D-9B75-E1639F3552A0/F9AFDBE3-395E-49B1-B13B-5F6A8A8E9E8E_stringValue",
+      "value": "Flowers"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "47B4F423-390F-428C-8347-A4DCAA3C7AA2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

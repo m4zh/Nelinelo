@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DF0009ED-82CB-4E9F-BA98-658D1D3A43BD",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 536,
+  "do_objectID": "DF23897F-DD2D-4D3A-B17A-AAA11F56F29D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10D1F5A5-8ED6-4C10-8AE1-6EB9E8908D14",
+    "height": 40,
+    "width": 40,
+    "x": 16528,
+    "y": 240
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FF274AC1-9926-41CC-99CE-F3C77B11E909",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CD2B3ADA-A9F1-47EF-B05C-96DDA83E5491"
+    }
+  ],
+  "name": "UIKit / Steps / Steps Icon / Border / Selected",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10D47D87-8F7A-4B52-9603-FC71F44EC372",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F3294696-6BCD-4B90-8B51-6B00A7090A0C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "59E6D788-4CCF-4EFD-B7E6-95EAB0CD08C1",
+    "guides": [
+    ]
+  }
+}

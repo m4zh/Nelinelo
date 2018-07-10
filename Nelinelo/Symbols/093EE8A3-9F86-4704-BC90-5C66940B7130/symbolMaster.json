@@ -1,0 +1,118 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 121,
+  "do_objectID": "093EE8A3-9F86-4704-BC90-5C66940B7130",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 87,
+    "x": 55098,
+    "y": 952
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "76B5696A-F5D6-4676-A7C3-65A26CA1CBB5"
+    },
+    {
+      "class": "group",
+      "id": "7E16960C-2C43-42B6-ADEE-E527738DBDA5"
+    },
+    {
+      "class": "text",
+      "id": "F67E90DE-754C-4817-9511-3FF07E56FEE4"
+    },
+    {
+      "class": "group",
+      "id": "F97A8611-ABD3-45FD-B307-B91E4CC00662"
+    },
+    {
+      "class": "group",
+      "id": "D500C6B2-1B9C-4230-BE64-967A3D3884C4"
+    },
+    {
+      "class": "text",
+      "id": "4361CC6B-91E0-4CA2-978C-B1685617899E"
+    },
+    {
+      "class": "text",
+      "id": "C186F9A9-FEB5-4FB6-A8CA-B92539C591BE"
+    },
+    {
+      "class": "text",
+      "id": "BAF76C28-23FD-4F49-82CF-616101E1F830"
+    },
+    {
+      "class": "text",
+      "id": "15D22CFB-9EDE-4657-84F5-AF88BA8EB3DC"
+    },
+    {
+      "class": "group",
+      "id": "BFC95059-2A8E-4BB2-8AE5-0DBA790BF142"
+    },
+    {
+      "class": "group",
+      "id": "B11601DD-4D30-4A3B-AB1D-907F44CEBA2D"
+    }
+  ],
+  "name": "Profile / Shop / Public / Contents / About / Opening Hours / Time Picker",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DD213480-1E7C-4805-8CCD-9A949FCBFBF8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

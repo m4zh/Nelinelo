@@ -1,0 +1,77 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C7554410-15ED-41EA-A820-0BC1BD2E25F3",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 95,
+  "do_objectID": "2AFBDD47-0F07-438E-BEDD-5DBC194409B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8EB0CEC5-B57A-45CE-AE2A-4A2811C2D910",
+    "height": 60,
+    "width": 370,
+    "x": 46620,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0CD4603C-D117-4C95-A2E0-313DF69B3DBC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E0C6FE06-1AB3-4936-A4DC-AB37A1A893B3"
+    }
+  ],
+  "name": "Pricing Page / Table / Col / Content / Bg / Light Gray",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24A71B01-E472-4282-8770-1F113DBF677E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "640AA353-34FC-4406-9679-E94B7775DBC5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C4772127-A47A-411E-8E80-B003CC9B3FCE",
+    "guides": [
+    ]
+  }
+}

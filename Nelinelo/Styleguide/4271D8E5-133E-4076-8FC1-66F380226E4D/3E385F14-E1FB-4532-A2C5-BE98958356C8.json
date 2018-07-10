@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3E385F14-E1FB-4532-A2C5-BE98958356C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE89AD00-2EAF-4AFC-8FB3-40980A62CF4E",
+    "height": 82,
+    "width": 133,
+    "x": 445,
+    "y": 281
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Color Picker",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA929D5C-FAA1-4E7A-A02C-AE37BDF25B71",
+      "overrideName": "C8BEC597-EAB7-4BF2-90C4-299F3BD9207A_symbolID",
+      "value": "ACE8CD2F-1577-42BD-9499-006F3D725C08"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15EB9B9C-0D22-4403-A0E0-D8CD3E609823",
+      "overrideName": "C2EE78E9-73E4-4F5D-A944-71B588FAE231_stringValue",
+      "value": "#8C95A5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E61F30B-2E79-4F7E-8F80-5F5E931E8A14",
+      "overrideName": "2EBE464B-30B2-4C84-8DB3-DF80046796CA_stringValue",
+      "value": "Gray"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "73568A91-9CF4-4ABE-9755-2CBD16B1BAF3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E07DC84F-28EC-492F-8440-B258D00A2951",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
