@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ADF05865-C765-4212-B9B9-65003535296B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "473C35F4-182E-47C1-9BD7-72D8D1C438D6",
+    "height": 249,
+    "width": 160,
+    "x": 380,
+    "y": 446
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Profile / Followers|Following",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1555ED04-E5E8-4CD7-A6AC-B2349A1D1D18_stringValue",
+      "value": "@dismage"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E4A53153-AAEB-4F4B-96A5-0239E8593C92/6AD48E33-AD08-4B19-8575-D1054F4640CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9765d180ead4c92934795a4bfb3b459b763460b5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B652A3ED-C144-4AAF-B36A-4719D55F41EB",
+      "overrideName": "8166C3B7-2C4B-41C3-B12C-12C857AE32AF_symbolID",
+      "value": "6A85D4ED-3869-491F-9048-FB8C810383AF"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4442D889-A986-4912-9853-7F8906FF27DA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E91B0902-3915-4E60-BCEC-7A55BAA4E05F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

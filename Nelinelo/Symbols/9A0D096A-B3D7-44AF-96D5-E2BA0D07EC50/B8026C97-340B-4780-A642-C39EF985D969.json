@@ -51,7 +51,7 @@
     "height": 32,
     "width": 154,
     "x": 65,
-    "y": 60
+    "y": 40
   },
   "glyphBounds": "{{1, 4}, {150, 19}}",
   "isFlippedHorizontal": false,
@@ -60,8 +60,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Edit collection",
-  "nameIsFixed": false,
+  "name": "Modal Title",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
@@ -71,7 +71,6 @@
     "do_objectID": "9C99ABC3-B0AA-44C7-8B66-79CBA8CB72E3",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "55188011-32DB-44BB-A975-C47B36F22D5A",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",

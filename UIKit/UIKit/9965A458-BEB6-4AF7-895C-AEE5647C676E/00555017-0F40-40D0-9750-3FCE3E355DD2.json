@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "00555017-0F40-40D0-9750-3FCE3E355DD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA6FA92B-4053-4159-8EFD-85E11A6AC95F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "44A7B7AE-81EF-4BF3-B5F1-FFC00329BB99",
+    "height": 65,
+    "width": 240,
+    "x": 46,
+    "y": 2722
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / Dropdown / Dropdown Icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C48E3D0C-92D3-4019-84B7-27BF447EF13C",
+      "overrideName": "4D6BD637-DD9F-4681-85C3-FFB21BF94F62/51D212A3-00DC-480C-816A-F013EA0B645F_stringValue",
+      "value": "Enter your phone"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C5A89B0-76BE-48ED-8802-F00A401A3887",
+      "overrideName": "A9A7DD31-E244-46C5-9853-421EBD917986_stringValue",
+      "value": "Hover"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CC22045-47E4-4218-B5BE-C15050A9B3E7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9A9F2EAD-2B6F-422A-AC20-0FBB65CBF471",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

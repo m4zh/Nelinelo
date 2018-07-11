@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CD9ADF59-AE02-498C-B0C8-6FB67E88BBDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F57E8F1-06D3-417C-9983-B50A73DFF87A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3A4F739-2584-4885-8B14-C5F93CE08E13",
+    "height": 43,
+    "width": 301,
+    "x": 117,
+    "y": 578
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Hover",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F49FC57D-840C-48C9-B036-D0B20CDE3722",
+      "overrideName": "9482DC0F-0D54-4BE4-A07D-D1869C0EE867_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8535103-172E-4D35-B299-1E451A3C3915",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "36029FA0-A2AE-4187-8D38-A1EBB10A081A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

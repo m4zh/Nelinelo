@@ -34,7 +34,7 @@
     "do_objectID": "2EEE8A37-FC8A-487C-ADD5-64699240BE5C",
     "height": 1280,
     "width": 1440,
-    "x": 12208,
+    "x": 13802,
     "y": 2586
   },
   "hasBackgroundColor": false,
@@ -53,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -61,39 +61,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "ED4405F6-523E-42A0-87E2-98D501681698"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F06591A3-0405-4C79-BBE9-E3B3A05DD90C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "213A73AB-5769-4150-9403-646D9075E49A"
-    },
-    {
-      "class": "symbolInstance",
       "id": "CF68FC28-271F-41E8-AB1B-F812B67F43DE"
     },
     {
       "class": "symbolInstance",
-      "id": "FAE645BC-441C-452F-852D-C0EFF5F2BECD"
-    },
-    {
-      "class": "group",
-      "id": "E61E7D2B-4B67-4B96-B133-6F3553B461AA"
-    },
-    {
-      "class": "group",
-      "id": "4C6C022F-86D2-4297-8AE4-80D3E1A3C2EB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8DCAB4CC-B7E9-4AD8-A4C7-254203536A77"
-    },
-    {
-      "class": "group",
-      "id": "4FD97DED-5FBF-41CF-9463-CB8E33A99562"
+      "id": "670F8979-A511-4294-8505-DC50DF6F7A3A"
     }
   ],
   "layout": {
@@ -112,8 +84,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Owner / Collections / Created Private",
-  "nameIsFixed": false,
+  "name": "Profile / Individual / Owner / Collections / Created / Private Items",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "116BCFCD-421B-4C3F-8994-215D7117D288",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "680B1541-B6D0-4B88-A5C5-8A286FED2A7F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A96A4A6-B759-415A-876B-4476C86A0901",
+    "height": 50,
+    "width": 50,
+    "x": 45,
+    "y": 540
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C30C77F2-E85A-4E56-8525-45C7E9AB90A4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6B1DA661-798F-4D8C-87E8-34248347E64B"
+    }
+  ],
+  "name": "Btn_icon / Social / Facebook",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4CF8529-FA24-449B-8A2B-0E9FE623070B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

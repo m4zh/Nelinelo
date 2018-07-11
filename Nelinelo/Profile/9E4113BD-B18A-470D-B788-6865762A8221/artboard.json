@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.996078431372549,
+    "do_objectID": "1C37E159-F883-4A15-BC21-E1483F858210",
+    "green": 0.9921568627450981,
+    "red": 0.9882352941176471
+  },
+  "do_objectID": "9E4113BD-B18A-470D-B788-6865762A8221",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF1E6484-867C-483F-B463-10BB1B94EE56",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2BA04788-2E4C-4C41-A441-FF48E79AB0DF",
+    "height": 1180,
+    "width": 1440,
+    "x": -16912,
+    "y": 5766
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "215F868C-A0FC-44D1-8457-CF9F841DAF15",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D97FFAC9-F9D5-49A0-A2D5-4E7790831D28"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7EC765A3-3246-4DE9-8F6C-8666C9C78FD8"
+    },
+    {
+      "class": "text",
+      "id": "38534D18-F14D-4B6D-9A8F-0D5999FB7233"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4458D567-671D-4F41-A954-7DBD53B3E5CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4DB9D112-9F2C-4E3A-BD5F-F4FFF655A80C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "do_objectID": "F17F54C3-6483-451B-99B7-642738096E8D",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "Profile / Shop / Public / Contact / Filled",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D14C65F-4632-41D6-B007-C80606363EA6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D3192801-1D45-42D2-B0ED-9BF8C760D76E",
+    "guides": [
+    ]
+  }
+}

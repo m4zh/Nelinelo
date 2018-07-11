@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8DCF5975-9944-424F-9D10-6F4DC6FBE610",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B6479D0-37D9-4C89-A919-B04E057DC7D7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6C08DB9-5436-4C06-A495-C72A8B02BCB5",
+    "height": 16,
+    "width": 136,
+    "x": 45,
+    "y": 706
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Text Icon / left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A4198FBD-E6F6-47B4-ACA0-FC125D62F398",
+      "overrideName": "39FFBB34-951C-42B2-8BFC-EDD4CDD5B4F8_stringValue",
+      "value": "Back"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00DC9ADF-B0D7-46DF-B79A-F873191198FA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E1B08862-90DD-40CA-9000-61149E25C68A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4E0C001B-749C-41B9-8BE7-ECA2DA4B85DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D53E994-6FD4-46A3-A8BF-2121EA6CB444",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "08A9D1CC-E0CA-4BBF-932C-9754A2BD2220",
+    "height": 30,
+    "width": 480,
+    "x": 498,
+    "y": 1147
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / Progression Bar / Normal 30%",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5BBAEDF-8913-421E-BA65-8C067D7613C1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C42B3ABE-85E0-45A1-906E-700BF299E520",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

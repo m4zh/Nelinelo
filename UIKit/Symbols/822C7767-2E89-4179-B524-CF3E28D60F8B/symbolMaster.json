@@ -1,0 +1,104 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 885,
+  "do_objectID": "822C7767-2E89-4179-B524-CF3E28D60F8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 216,
+    "width": 153,
+    "x": 250,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7E2C4427-6098-4DDE-89E9-BD29A87A6AB7"
+    },
+    {
+      "class": "text",
+      "id": "07926421-4776-4FFB-AF95-736D595F19FD"
+    },
+    {
+      "class": "text",
+      "id": "D48402D7-D848-4FD0-88F5-994D512892C5"
+    },
+    {
+      "class": "text",
+      "id": "D4420E5C-F167-4C37-AE48-B4C77C5592DF"
+    },
+    {
+      "class": "text",
+      "id": "714BAAB7-B9E6-4D76-842C-146AB836650E"
+    },
+    {
+      "class": "text",
+      "id": "ACC7599E-1DDC-490A-B65D-4B3A4A29ED2C"
+    },
+    {
+      "class": "text",
+      "id": "19657ECF-4301-4A46-AB3E-C29D5D25482A"
+    },
+    {
+      "class": "group",
+      "id": "8B4C3183-7AC8-4769-9806-25D8969DA098"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "510BEEB5-FB3D-46CC-98E3-90D2B4CC0AE0"
+    }
+  ],
+  "name": "Bar / Header / Menu / content",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6053C9D7-DD23-4BAA-B3E3-7079D023E61D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

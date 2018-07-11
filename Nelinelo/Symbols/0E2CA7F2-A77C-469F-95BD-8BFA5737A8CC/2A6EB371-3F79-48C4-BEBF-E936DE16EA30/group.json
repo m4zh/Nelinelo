@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "2A6EB371-3F79-48C4-BEBF-E936DE16EA30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 332,
+    "x": 389,
+    "y": 93
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "97F7FEE1-242F-499A-930E-316BE0FB3349"
+    },
+    {
+      "class": "text",
+      "id": "822FF92F-FA2D-40BD-8145-F852BEDB8963"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB45B95B-3697-41F9-B9EC-8520B6A6341F"
+    },
+    {
+      "class": "text",
+      "id": "6933AEB9-8206-4475-93B6-F983D688EB69"
+    }
+  ],
+  "name": "Switch",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

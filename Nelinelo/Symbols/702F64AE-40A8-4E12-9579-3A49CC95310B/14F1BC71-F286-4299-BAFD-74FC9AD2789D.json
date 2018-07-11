@@ -16,7 +16,7 @@
     "height": 108,
     "width": 108,
     "x": 311,
-    "y": 243
+    "y": 235
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,8 +24,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Contents / Auth / Interest Modal / Item Mulpti Line",
-  "nameIsFixed": false,
+  "name": "Item 8",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

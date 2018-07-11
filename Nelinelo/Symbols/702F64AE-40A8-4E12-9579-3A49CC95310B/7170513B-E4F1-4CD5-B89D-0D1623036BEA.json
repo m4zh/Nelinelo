@@ -17,7 +17,7 @@
     "height": 108,
     "width": 108,
     "x": 65,
-    "y": 120
+    "y": 112
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,8 +25,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Contents / Auth / Interest Modal / Item Mulpti Line",
-  "nameIsFixed": false,
+  "name": "Item 1",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
@@ -40,21 +40,21 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "24CBA7CB-5625-4394-B81D-E63835FC6042",
+      "do_objectID": "DE753E49-6D43-4610-9F63-1DBC95052915",
+      "overrideName": "2ADAE239-D7EA-479B-901B-79ADFDD39949_symbolID",
+      "value": "172CB93B-1F1C-4F00-9A8B-CA925EEF28AA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97FCEA55-C6AB-4F51-8A38-D47AA6D00E17",
       "overrideName": "6217E06D-22B1-4CEE-AEDE-E43C542000A9_symbolID",
       "value": "17CBF379-43E2-4F2F-9A60-A1CB1A5CB58C"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "86429E82-5202-4005-A5B2-25C3B8D16C6E",
+      "do_objectID": "0ED5D2C6-1C4E-485A-97E6-C95B44BC9B5E",
       "overrideName": "6217E06D-22B1-4CEE-AEDE-E43C542000A9/0F83D383-30CF-4494-A3DD-CF585A45BAE9_stringValue",
       "value": "Women’ clothing"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "DE753E49-6D43-4610-9F63-1DBC95052915",
-      "overrideName": "2ADAE239-D7EA-479B-901B-79ADFDD39949_symbolID",
-      "value": "172CB93B-1F1C-4F00-9A8B-CA925EEF28AA"
     }
   ],
   "resizingConstraint": 63,

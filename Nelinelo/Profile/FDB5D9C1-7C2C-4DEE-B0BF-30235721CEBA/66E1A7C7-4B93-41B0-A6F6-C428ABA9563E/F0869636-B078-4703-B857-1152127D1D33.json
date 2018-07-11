@@ -62,11 +62,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 38,
+        "length": 35,
         "location": 6
       }
     ],
-    "string": "Cindee haven’t followed any collections yet!"
+    "string": "Cindee hasn’t created any collection yet!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F0869636-B078-4703-B857-1152127D1D33",
@@ -85,18 +85,18 @@
     "constrainProportions": false,
     "do_objectID": "E6222BB2-AB67-4040-A99C-7DDD4C423D57",
     "height": 18,
-    "width": 318,
+    "width": 294,
     "x": 0,
     "y": 45
   },
-  "glyphBounds": "{{0, 1}, {317, 17}}",
+  "glyphBounds": "{{0, 2}, {293, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Cindee haven’t follo",
+  "name": "Cindee hasn’t create",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

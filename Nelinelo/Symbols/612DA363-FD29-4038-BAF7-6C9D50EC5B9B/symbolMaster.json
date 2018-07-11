@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9704,
+  "changeIdentifier": 10335,
   "do_objectID": "612DA363-FD29-4038-BAF7-6C9D50EC5B9B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,9 +23,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BB67B4B7-D680-4B8E-9701-A277F6A38055",
-    "height": 656,
+    "height": 688,
     "width": 1110,
-    "x": 28637,
+    "x": 28638,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -45,42 +45,42 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "875734FA-14D1-46B3-BDEB-B6E27EC3AD73"
+      "id": "20433BCC-689D-4AF6-BC4E-A5CCDF2211BE"
     },
     {
       "class": "symbolInstance",
-      "id": "1F1B27EA-5BA1-4E5B-9CBD-4723B1C9BD6F"
+      "id": "5164E213-3005-45CC-A754-2C16E58CDD50"
     },
     {
       "class": "symbolInstance",
-      "id": "3CDCA016-E1B0-4754-B698-F89C318A0BDE"
+      "id": "1B95A205-F634-4F24-B54E-56C8AF39AEE9"
     },
     {
       "class": "symbolInstance",
-      "id": "10CE0BB5-D2FD-4E97-9AB6-3C6B714D00CE"
+      "id": "D1A29934-218D-4E21-9BA4-64BD96064A4B"
     },
     {
       "class": "symbolInstance",
-      "id": "30A88BF2-8995-487F-AB9A-57444FE77168"
+      "id": "7BE82B81-EA79-4FE7-9B7B-0DF8507E36FC"
     },
     {
       "class": "symbolInstance",
-      "id": "337E884C-25DB-4103-BA32-25980017F12B"
+      "id": "BD0A7E44-0144-4812-A718-EB5ADF7277FA"
     },
     {
       "class": "symbolInstance",
-      "id": "229B2093-38D5-4DA0-930B-C7F8E36BD0AB"
+      "id": "5B94C524-A330-40EC-8D98-609D89D306CC"
     },
     {
       "class": "symbolInstance",
       "id": "18393E24-1EB7-4083-99A2-A2E7AAB2E0A7"
     }
   ],
-  "name": "Contents / Profile / Collections / My Items / Editable",
+  "name": "Contents / Profile / Collections / Items / Editable",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

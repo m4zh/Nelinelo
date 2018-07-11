@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F35A3143-936D-457B-A671-FE857DEB305C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B75266F-0899-4824-8E74-9C592C12794E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3BA5828-07C6-49A6-824E-CA68A8932126",
+    "height": 108,
+    "width": 108,
+    "x": 557,
+    "y": 358
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26E551F4-6EE2-4B8D-91B3-9357C0478831",
+      "overrideName": "3C64DBAB-2DC5-4DB6-A4FA-EDF52CC2B644_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e328b2701db9454ec9f1d06a90d72a4b2d864b30.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97FCEA55-C6AB-4F51-8A38-D47AA6D00E17",
+      "overrideName": "6217E06D-22B1-4CEE-AEDE-E43C542000A9_symbolID",
+      "value": "17CBF379-43E2-4F2F-9A60-A1CB1A5CB58C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0ED5D2C6-1C4E-485A-97E6-C95B44BC9B5E",
+      "overrideName": "6217E06D-22B1-4CEE-AEDE-E43C542000A9/0F83D383-30CF-4494-A3DD-CF585A45BAE9_stringValue",
+      "value": "Technology"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1ED05A9-C319-4433-A401-7EC65C766C84",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6455F40B-437F-4BF2-ABC7-FE6F4868546C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

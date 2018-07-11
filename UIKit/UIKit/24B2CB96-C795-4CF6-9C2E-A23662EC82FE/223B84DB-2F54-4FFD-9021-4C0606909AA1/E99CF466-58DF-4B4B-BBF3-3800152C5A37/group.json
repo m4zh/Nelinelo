@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "E99CF466-58DF-4B4B-BBF3-3800152C5A37",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EBA21C80-C7F3-4A94-BD7A-38914A7A9F25",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "891E03F2-B978-4A93-87A4-6DBD74CDF33C",
+    "height": 16,
+    "width": 13,
+    "x": 21,
+    "y": 37
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "73951B9F-3491-4CEF-BF54-7F0040BFD129"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F3CAFB7-EAE7-4E08-A551-BEFE05A6B1D7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7704055-0B84-4E7F-8038-2ED1794A9E2C"
+    }
+  ],
+  "name": "Icon / Email",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E715FA7-2319-40F6-864C-25E1C720A660",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_e92ac72a-c852-4b39-9bca-9c2ab22fd7a9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 12.8
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b983680a-91a0-4bf7-b726-ec905f596029",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

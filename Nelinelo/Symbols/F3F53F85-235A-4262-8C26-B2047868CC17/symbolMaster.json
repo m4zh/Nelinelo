@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 117,
+  "changeIdentifier": 125,
   "do_objectID": "F3F53F85-235A-4262-8C26-B2047868CC17",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,7 +26,7 @@
     "height": 256,
     "width": 256,
     "x": 26872,
-    "y": 3290
+    "y": 2784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,14 +45,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "77169C50-E3CC-415F-95E1-4D52171CB8C9"
     }
   ],
-  "name": "Contents / Profile / Collections / Single Item",
+  "name": "Contents / Profile / Collections / Card / Single Item",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

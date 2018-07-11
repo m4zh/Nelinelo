@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "3371C3D1-2FE6-4DB3-86DA-C51689E94FC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B81B652E-71A3-44A0-81FB-F5A1260493CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1D21235-7B99-4088-A849-724A2DBC032A",
+    "height": 50,
+    "width": 50,
+    "x": 446,
+    "y": 540
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B69C23A4-35F2-4B3A-A54F-AA50733A82BB"
+    }
+  ],
+  "name": "Btn_icon / Social / Youtube",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA9987D0-3B8D-4C79-8796-F40FB022274D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

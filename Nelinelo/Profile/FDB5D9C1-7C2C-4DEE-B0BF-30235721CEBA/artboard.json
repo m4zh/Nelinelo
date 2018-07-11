@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9BD71054-A105-4D2E-8CC1-1BD7CDB09B99",
-    "height": 2091,
+    "height": 2688,
     "width": 1440,
     "x": -4689,
     "y": -229
@@ -43,12 +43,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "B96976AA-C7AF-4FAC-9D52-302B1D0E671C"
-    },
     {
       "class": "group",
       "id": "63561814-467D-4082-9877-5DB6B8A06207"
@@ -74,16 +70,20 @@
       "id": "B3148D46-B5B1-4D48-929D-095504C188C6"
     },
     {
-      "class": "group",
-      "id": "91EE5FA9-7740-469E-B681-571ED6293222"
-    },
-    {
       "class": "symbolInstance",
       "id": "E744E177-BB29-4C48-B1C8-7436307065C5"
     },
     {
       "class": "group",
       "id": "9A86DBA5-BB2D-45A2-AA48-44B836E31C0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7BDCFA6-B56B-4497-A171-FB745A1019EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DD76DC6B-D311-4D7E-BAEE-7E073F3E9898"
     }
   ],
   "layout": {

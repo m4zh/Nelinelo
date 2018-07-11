@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "C57B230F-9DB1-4B5C-9F92-F84002FA9486",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E69D0C34-6E93-4357-8D37-85EAC5860DAC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "042DF46E-62EC-424D-B43E-BB2F4AB9FD83",
+    "height": 16,
+    "width": 20,
+    "x": 1262,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A6E29ABD-4250-4443-B36E-E1E488165B7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B612300D-22DA-4E7B-B4EF-3C49E2656C35"
+    }
+  ],
+  "name": "Icon / Message",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F5C40433-3B1A-4DF4-845A-C3F46885F31F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

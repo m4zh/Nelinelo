@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 229,
+  "changeIdentifier": 235,
   "do_objectID": "D4B8C224-0ED4-43AA-A974-76C8ACEC7D2F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 40,
     "width": 276,
-    "x": 8471,
+    "x": 12224,
     "y": 480
   },
   "hasBackgroundColor": false,
@@ -50,7 +50,7 @@
     },
     {
       "class": "group",
-      "id": "E1FF3D1F-363D-430C-9EC0-70736145F9E1"
+      "id": "2AA1D8B5-EC07-42D4-96F8-1AC75C8DD335"
     },
     {
       "class": "text",

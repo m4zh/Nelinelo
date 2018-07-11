@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6EE85E01-5B8E-4CD7-B0A8-331001279386",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA6DC416-C577-4059-96DD-957BD9BB8218",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "177358DF-DD42-4E75-B333-5951A78AE3B5",
+    "height": 108,
+    "width": 108,
+    "x": 65,
+    "y": 358
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26E551F4-6EE2-4B8D-91B3-9357C0478831",
+      "overrideName": "3C64DBAB-2DC5-4DB6-A4FA-EDF52CC2B644_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1f872b233e947d128ffcc6d912e8cc5e93d81fc4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97FCEA55-C6AB-4F51-8A38-D47AA6D00E17",
+      "overrideName": "6217E06D-22B1-4CEE-AEDE-E43C542000A9_symbolID",
+      "value": "17CBF379-43E2-4F2F-9A60-A1CB1A5CB58C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0ED5D2C6-1C4E-485A-97E6-C95B44BC9B5E",
+      "overrideName": "6217E06D-22B1-4CEE-AEDE-E43C542000A9/0F83D383-30CF-4494-A3DD-CF585A45BAE9_stringValue",
+      "value": "Health & beauty"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34E42CA6-6DB6-481C-9891-21305EC8FD01",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6455F40B-437F-4BF2-ABC7-FE6F4868546C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

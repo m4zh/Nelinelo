@@ -1,0 +1,127 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1B95A205-F634-4F24-B54E-56C8AF39AEE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A329FDF-7161-40FB-A325-49BD3EFA9D48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BCA1773-3144-4C34-9174-949AC8E07D65",
+    "height": 329,
+    "width": 255,
+    "x": 285,
+    "y": 359
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 5",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A506B4F7-39DF-4A02-AF6C-89A6E4D6AB6B",
+      "overrideName": "55867EDE-4A55-4671-B7FD-FA17470A29F3/8626F0B2-0A58-4EBE-9B0F-DE3DD87D5E8A/3B60FAC9-B751-4F9E-B966-F5DD3293C172_stringValue",
+      "value": "FOLLOWING"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF1D702A-FA28-400F-8A18-5DDA7CD77A54",
+      "overrideName": "ABE41BA1-5F5A-4A27-9473-86825C44E395/187DB4F9-DF78-4B25-BA09-C570D0FF4E2E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3ded1ba3b939030a031389905af719f9ea1da7ae.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC746F8F-B8BB-4BFE-B5F3-0CE9C77A2256",
+      "overrideName": "ABE41BA1-5F5A-4A27-9473-86825C44E395/E1C2BF08-A7FF-4CE6-884F-E66C7E9C70E9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/14b69d033ebd2d3ad3e381ac4d87c18e28db7aa9.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "865F6CDE-76EB-41EB-8CD5-804AA4FCF0D0",
+      "overrideName": "ABE41BA1-5F5A-4A27-9473-86825C44E395/B3798C9F-70FA-4398-8750-84B554624112_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0aef12e708bfdbc7acd20b9f16c20ed19418168e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C381D044-64DD-4F51-AE7A-BF6E9E4AA8E4",
+      "overrideName": "ABE41BA1-5F5A-4A27-9473-86825C44E395/F0E905AB-6D84-44F7-A7E9-E8B027CDE407_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ff0015e361b6ef6eb6a976e8800b051522973e38.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84EA15B9-713A-4965-BD2F-84552696EEF2",
+      "overrideName": "4EE9E2F6-06C3-4E68-9879-265B51B946A7/6AD48E33-AD08-4B19-8575-D1054F4640CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8a4d09fde094e379d6a06811b69f2fe9d523eb7e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE14C949-CCC5-4681-A950-C1196A666049",
+      "overrideName": "E2AC6AD5-491C-47A0-8D83-F8E293C61004_stringValue",
+      "value": "Plants for House"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "93F0FB3A-A8B9-44A1-8E9B-55BB977414AD",
+      "overrideName": "B1B1BA22-C28E-4698-9DA8-97FC3ADF1FCC_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB931510-E278-4910-8EAB-AC52EA9933A3",
+      "overrideName": "CD3CD470-25EE-4564-A5FD-23E664BAE36A_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E1756BD-8522-42F4-8DC8-0F8DD1942517",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B74E52DB-B44A-4DC4-AB11-98EE583F18DA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

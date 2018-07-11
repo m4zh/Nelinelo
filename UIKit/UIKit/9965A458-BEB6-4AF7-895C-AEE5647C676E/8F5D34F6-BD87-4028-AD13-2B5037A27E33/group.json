@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "8F5D34F6-BD87-4028-AD13-2B5037A27E33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E8422A8-B6A2-4109-A0D4-61A745D64691",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ACE175F9-16E2-4848-BC43-A9E135EB0B18",
+    "height": 50,
+    "width": 50,
+    "x": 366,
+    "y": 540
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DC1F0AC7-35F8-4002-ACC7-0998103E5DDD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F4653540-D02D-485F-90C3-EED6B8CA5BF0"
+    }
+  ],
+  "name": "Btn_icon / Social / Insta",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5B4A1FF-6DA8-42BA-B011-37CD7DEB799B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

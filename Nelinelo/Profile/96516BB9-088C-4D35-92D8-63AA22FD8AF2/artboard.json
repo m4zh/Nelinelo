@@ -25,10 +25,10 @@
     "height": 1180,
     "width": 1440,
     "x": -18575,
-    "y": 6434
+    "y": 5766
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -43,15 +43,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "8CD8DD3F-2EC1-48B2-BC67-34FEAF3DB43D"
-    },
-    {
-      "class": "text",
-      "id": "6176FDDC-4531-4F16-B07F-60EB6FFDEE23"
     },
     {
       "class": "shapeGroup",
@@ -62,28 +58,12 @@
       "id": "104E2722-A385-47D9-89DA-1F307B3D3DEB"
     },
     {
-      "class": "text",
-      "id": "AB85BC71-0A27-4128-832F-B9AE4F443BAB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D8EFE5D9-991E-405F-AE86-771210C7A183"
-    },
-    {
-      "class": "text",
-      "id": "FDA2AD7A-DF0A-4135-9816-0EB37FD490DA"
-    },
-    {
-      "class": "group",
-      "id": "5D0E4C9A-670D-46AC-BE1C-EF28A65FEDE3"
-    },
-    {
-      "class": "text",
-      "id": "3F5B3725-4519-4499-B6FE-2AD37603C2D8"
+      "class": "symbolInstance",
+      "id": "902D9BCA-D36C-4780-853A-E364DCC4AB49"
     },
     {
       "class": "symbolInstance",
-      "id": "902D9BCA-D36C-4780-853A-E364DCC4AB49"
+      "id": "24664BB9-0EFA-4895-AE41-6E06C222E855"
     }
   ],
   "layout": {
@@ -102,8 +82,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Shop / Public / Contact",
-  "nameIsFixed": false,
+  "name": "Profile / Shop / Public / Contact / Blank",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

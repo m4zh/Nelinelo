@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "721CFD06-7A96-443E-980B-EFD46424245C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "496928B6-8D28-4B04-A0C9-112195BC6BCE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3CCCC259-D2AF-4C8E-81EB-96AB180DED1D",
+    "height": 65,
+    "width": 240,
+    "x": 367,
+    "y": 1091
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / TextField / Split Text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6FF9883-83A8-4A5D-BC23-C37CC774F936",
+      "overrideName": "B8AD86BB-8EEF-4429-8E5A-61B66C771AC8_symbolID",
+      "value": "91272EE7-56D5-47B0-8DFF-B9FA984282A1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2F956E2-98F6-43AE-82FC-1541DFCBB373",
+      "overrideName": "B8AD86BB-8EEF-4429-8E5A-61B66C771AC8/84A65BCE-61CC-4F44-9277-5E16A0AFE361_stringValue",
+      "value": "cindee@nelinelo.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43DE3D55-3831-44F9-A6A9-262323238CCB",
+      "overrideName": "8B1C0E94-AE2B-4AD7-97EB-E016F8F47BCA_symbolID",
+      "value": "559A1B0E-7BC1-442C-B9D6-5D7F60A1DD58"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "358AE223-CF73-49DA-B28E-83D242C506CE",
+      "overrideName": "CE8E7190-9526-457D-AEBB-6CFC7603F1FB_stringValue",
+      "value": "Focus"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E891B00-BC22-44CD-997B-6E4FB7B81D5C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B1CBFB2B-89B5-4599-B055-3D6F6961FEF0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

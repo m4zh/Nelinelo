@@ -1,0 +1,106 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "7CDE593E-0E57-4A66-95C6-7AB3FC5A5B49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC08E2E1-903A-4D19-9B94-04D1DADFB12F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "649BFC07-80C1-445B-BD91-2575390D4DB6",
+    "height": 24,
+    "width": 24,
+    "x": 13,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A4697055-CE2B-4EB2-874A-4A7EF93F9CA2"
+    },
+    {
+      "class": "shapePath",
+      "id": "61562A30-669A-4C6A-B018-BF5D9AE0BE61"
+    },
+    {
+      "class": "shapePath",
+      "id": "AEB0D44B-87B3-428D-82F7-8765040809AD"
+    },
+    {
+      "class": "shapePath",
+      "id": "9B8270C9-2B61-4BA0-97D8-48D89DCF70A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "1E500FDD-1B4F-4838-A651-008F4F031F8C"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "288DC8AD-5CB4-48D1-B9A4-552875E4B86F",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_5b91b14a-a996-4144-a761-4f4b1141511b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 24
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_7bd80b5f-ed6f-4dee-9bfd-c83aa62b4047",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

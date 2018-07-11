@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3718B228-F32A-40B7-A9D0-3328A2FE4C1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D59B6912-A0EB-4744-8109-6331767CFC1D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1BBD7DCF-7610-4A9F-8A26-126CFEA8B406",
+    "height": 152,
+    "width": 130,
+    "x": 845,
+    "y": 513
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / Tabs / Left / Left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "607C05EE-5717-4B93-AFF1-0A93BA9681D1",
+      "overrideName": "4CC0BC05-C856-4EE5-BE55-6049DAC52851_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "174C7AA3-55CC-4036-BFE7-469FFCC7EC44",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E200D7B3-64BC-4027-9522-81BB451A9696",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
