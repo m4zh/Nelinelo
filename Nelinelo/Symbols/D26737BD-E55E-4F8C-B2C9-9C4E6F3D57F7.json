@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D26737BD-E55E-4F8C-B2C9-9C4E6F3D57F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EFF1467E-C0AC-464C-919C-EB80CF593EAB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "30B03E23-9F52-468D-819D-C8E46D6EF2C5",
+    "height": 17.1743119266055,
+    "width": 15.7090909090909,
+    "x": 52656.43636363636,
+    "y": 1178.587155963303
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "Icon / Commons / Checked / White",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55666FDA-C7B0-4C6D-B3D6-1E815BA3DF9B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E6FBD179-97F1-49CD-8347-492D3F9A06C3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 784,
+  "changeIdentifier": 4971,
   "do_objectID": "9A0D096A-B3D7-44AF-96D5-E2BA0D07EC50",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,9 +23,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "071A2B7B-29F7-4DD1-A8C9-97AF6590CA3E",
-    "height": 562,
+    "height": 325,
     "width": 730,
-    "x": 64017,
+    "x": 54359,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -45,27 +45,43 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "392C37A9-81C9-435D-AACF-169BBCA1000D"
     },
     {
+      "class": "symbolInstance",
+      "id": "32C5CE4D-271E-4C77-A8E3-4AC0C5D0287A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D104FF2E-B1D7-4498-B0BD-38E5632082E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3B9E8C8-FE2D-4BCC-983D-46CB3F52DB5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "254CBC6B-ED70-4C6F-A5B8-6DA52312D221"
+    },
+    {
       "class": "text",
       "id": "B13A22BB-4F29-48C3-9440-97A1D9E522B0"
     },
     {
-      "class": "group",
-      "id": "B28E9089-0237-42B3-9685-A1431015F55A"
+      "class": "symbolInstance",
+      "id": "D54B9F47-1302-4464-8F60-C59884659A8D"
     },
     {
-      "class": "group",
-      "id": "2AA8AE2A-87B8-4BA5-A164-E183F08A3CAD"
+      "class": "text",
+      "id": "8D551194-78DF-44E3-BA8A-DC2B8D6AC3F5"
     },
     {
-      "class": "group",
-      "id": "EF152DEB-2DA1-428E-97AF-2A6B66837AAA"
+      "class": "text",
+      "id": "91046651-975A-443A-A681-45B37050D81B"
     },
     {
       "class": "text",
@@ -73,14 +89,25 @@
     },
     {
       "class": "symbolInstance",
-      "id": "32C5CE4D-271E-4C77-A8E3-4AC0C5D0287A"
-    },
-    {
-      "class": "text",
-      "id": "8F3EF8F3-ABE4-4F92-ACCA-726139725EAA"
+      "id": "E8801F6A-815D-4509-9026-F712FACEC448"
     }
   ],
-  "name": "Profile / Individual / Owner / Collections / Edit Collection Modal",
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 142.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 60,
+    "guttersOutside": false,
+    "horizontalOffset": 192.5,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 345
+  },
+  "name": "Profile / Individual / Collections / Modal",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

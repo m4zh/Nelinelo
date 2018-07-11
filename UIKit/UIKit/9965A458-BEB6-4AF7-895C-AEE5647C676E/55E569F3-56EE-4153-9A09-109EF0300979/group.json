@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "55E569F3-56EE-4153-9A09-109EF0300979",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64D6240A-772B-4D32-8411-62F416D71D57",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D333BE25-F587-49D6-95A9-72AC9CBF3E73",
+    "height": 40,
+    "width": 160,
+    "x": 818,
+    "y": 306
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A7EBAE1D-6515-4A8A-9B97-E4197224093D"
+    },
+    {
+      "class": "group",
+      "id": "C0606665-8E49-452E-B8BD-590C4BD9539F"
+    }
+  ],
+  "name": "Button icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "810B54ED-340F-4FE2-9518-FA5016D0C4FA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3093,
+  "changeIdentifier": 3095,
   "do_objectID": "928AA6C9-1F06-40A7-A0A9-B2DD940FD3DF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -25,7 +25,7 @@
     "do_objectID": "F7822025-9EAF-41A8-9EFB-7308303001F0",
     "height": 405,
     "width": 320,
-    "x": 2929,
+    "x": 1642,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -53,7 +53,7 @@
     },
     {
       "class": "group",
-      "id": "9C87D2E3-3746-4380-9429-15E819D5B621"
+      "id": "5427A04D-248A-4D8A-A4F1-27BD2129B25C"
     },
     {
       "class": "shapeGroup",

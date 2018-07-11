@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 11,
+  "changeIdentifier": 21,
   "do_objectID": "59AEE072-1666-48E4-B559-E1A8825F8950",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 34,
     "width": 36,
     "x": 26872,
-    "y": 3056
+    "y": 2094
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -53,8 +53,8 @@
       "id": "BB25470F-B32E-424B-8027-E700D6196A6F"
     }
   ],
-  "name": "Contents / Profile / Collections / Private item",
-  "nameIsFixed": false,
+  "name": "Contents / Profile / Collections / Card / Lock",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

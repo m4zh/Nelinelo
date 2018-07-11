@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B9A6A418-2580-4E7E-8897-F985D079E183",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E32789AA-53AB-4A0D-A45B-D0C64449B3A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF4CD43B-7647-4B75-A43C-CFFD62A886F4",
+    "height": 36,
+    "width": 110,
+    "x": 591,
+    "y": 371
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / Button / Button Size / Small",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16F5AB4A-216D-4ECA-A11C-BAC0DB1233BD",
+      "overrideName": "7381F38C-7646-46A8-A161-DED79149BDDB_stringValue",
+      "value": "small"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "444C4047-C8F7-41DE-B132-51DD2E82394B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E7DB0651-5A1C-4985-98CF-3B336DDF8CBD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

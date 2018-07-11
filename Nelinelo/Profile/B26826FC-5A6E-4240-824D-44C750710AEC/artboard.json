@@ -22,13 +22,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8FC57F56-9EB1-4B63-893B-B12787491C61",
-    "height": 1180,
+    "height": 1280,
     "width": 1440,
-    "x": 15529,
+    "x": 17123,
     "y": 2586
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -51,7 +51,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "B1B171F2-AE23-4F84-8200-77D0E224FDEC"
+      "id": "B4FF768B-8012-4FB4-A8C4-DB8B0B752781"
     }
   ],
   "layout": {

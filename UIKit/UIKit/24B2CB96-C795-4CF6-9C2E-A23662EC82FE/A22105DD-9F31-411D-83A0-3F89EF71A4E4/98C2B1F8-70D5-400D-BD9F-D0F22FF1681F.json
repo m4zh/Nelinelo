@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "98C2B1F8-70D5-400D-BD9F-D0F22FF1681F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1EFAC82D-4BDB-4BCB-B40F-D5E933118610",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D4DFBC5F-3359-4A6B-AB8E-97A58EBB4AFE",
+    "height": 134,
+    "width": 134,
+    "x": 400,
+    "y": 393
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / Upload / Upload Modal / Image",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "304EEA1E-468A-44F9-923A-D32DF701D084",
+      "overrideName": "107F4BF2-4AF9-4F2B-8FD0-D8ADD4FB42F8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bad8ec2202e1751ffcffd4f144fd60981a38fe6e.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69D63170-5D7D-4B84-955F-B0753B82CF8F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9F1415E0-58AE-4534-8159-F733BEC50C49",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "30E153ED-D693-47B8-B37E-FB4DBE3725EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5914615C-9ECC-4E92-9612-4B14822CFDAC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0BF4031-6DC9-4F2D-A3D5-B427A603E1CE",
+    "height": 210,
+    "width": 240,
+    "x": 366,
+    "y": 2447
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "17D98742-F1E8-4491-B2C6-F18FD0B1626F"
+    },
+    {
+      "class": "text",
+      "id": "8C379B3D-4FD8-4EF0-9D5D-1DC72D57E469"
+    }
+  ],
+  "name": "Dropdown Select",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "039D1DD5-8E44-4B11-AD49-A5F89D6ADC46",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 567,
+  "changeIdentifier": 653,
   "do_objectID": "DF7F3133-6670-4A4A-B04B-DEA8C2104421",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 267,
     "width": 900,
-    "x": 39108,
+    "x": 41729,
     "y": 4398
   },
   "hasBackgroundColor": false,
@@ -42,15 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "10944DD3-0EAE-4777-8AB6-EC16C338D10D"
     },
     {
-      "class": "group",
-      "id": "E60F8554-309B-497B-AAC2-0A69E6002517"
+      "class": "symbolInstance",
+      "id": "4CEB13B9-43B7-4E50-90CD-108FB222DA71"
     }
   ],
   "name": "Contents / Profile / Shop / Header / Info Hover",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 431,
+  "changeIdentifier": 686,
   "do_objectID": "C8E5EC2F-AD43-4909-AD8F-68342C8949A1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 255,
     "width": 255,
-    "x": 28182,
-    "y": 0
+    "x": 26872,
+    "y": 1639
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -61,8 +61,8 @@
       "id": "CBEF040D-5686-445A-9533-1C5E02F517F0"
     }
   ],
-  "name": "Contents / Profile / Collections / Hover / Edit",
-  "nameIsFixed": false,
+  "name": "Contents / Profile / Collections / Card / Hover",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FA192983-B824-432C-9DAF-914866547D5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14835BE4-C219-4FEC-8675-A3818B428EBB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4ED29C7-C895-4517-95D1-1B92F4D31269",
+    "height": 67,
+    "width": 240,
+    "x": 47,
+    "y": 1419
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / TextField / Password Strength",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1AC7C73-3679-4317-8A64-6A66E9174F5C",
+      "overrideName": "F144B576-046B-45AE-9E06-69F51B8D164D/6F2E9D76-BA9B-487A-A741-F3F9D65A5CF2_stringValue",
+      "value": "Bad"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2ABAB6B8-284D-42E4-8352-A553ED2AE3F1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5D92CF0D-B908-4BB7-8909-84B84FDF6C55",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

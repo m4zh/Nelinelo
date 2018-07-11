@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "E2E64D41-5202-47AC-B471-35E09ABE64D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63378EDE-A44B-47A1-B12D-5FB943199B12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A874E7E5-A432-49B7-8C71-E011D8ADF0AC",
+    "height": 50,
+    "width": 50,
+    "x": 687,
+    "y": 540
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9D57FABC-6E0D-4414-A3C4-DCAE36E02381"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD477E87-D3E6-4404-9919-46E01E2E0457"
+    }
+  ],
+  "name": "Btn_icon / Social / google",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA8D2130-2834-453A-ADC7-5030E4EBDBE1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

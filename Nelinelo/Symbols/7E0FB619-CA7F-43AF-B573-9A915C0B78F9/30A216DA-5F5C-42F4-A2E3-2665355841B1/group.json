@@ -45,21 +45,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "aspectRatio": {
-            "constant": 16,
-            "enabled": 1,
-            "modelID": "constraint_c37359d1-9f0d-42e6-be55-27cf35f9a0a2",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 8
-          },
-          "automatic": 1,
-          "modelID": "viewConstraints_e65e36cf-d435-497d-90a7-1cedababcbd6",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "scaleFactor": 1
-        }
       }
     }
   }

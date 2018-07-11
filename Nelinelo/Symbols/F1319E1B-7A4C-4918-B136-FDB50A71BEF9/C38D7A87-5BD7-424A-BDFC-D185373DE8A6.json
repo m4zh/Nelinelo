@@ -14,8 +14,8 @@
   "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 1180,
+    "constrainProportions": false,
+    "height": 1280,
     "width": 1440,
     "x": 0,
     "y": 0

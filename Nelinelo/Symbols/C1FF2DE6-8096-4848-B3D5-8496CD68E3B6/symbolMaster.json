@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1380,
+  "changeIdentifier": 1390,
   "do_objectID": "C1FF2DE6-8096-4848-B3D5-8496CD68E3B6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 381,
     "width": 255,
-    "x": 28512,
-    "y": 0
+    "x": 26872,
+    "y": 1058
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -65,7 +65,7 @@
       "id": "E51A185F-C405-4EB3-8124-4BE23D36789D"
     }
   ],
-  "name": "Contents / Profile / Collections / Card",
+  "name": "Contents / Profile / Collections / Card / Can Follow",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

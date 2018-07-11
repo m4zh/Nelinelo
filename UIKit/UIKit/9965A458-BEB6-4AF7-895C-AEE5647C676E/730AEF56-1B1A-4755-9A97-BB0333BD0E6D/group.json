@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "730AEF56-1B1A-4755-9A97-BB0333BD0E6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A0B84B7-32CE-4EE3-AF22-80449DA4EDDC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17A3ED86-5D73-4D8D-82B7-7139BB20A043",
+    "height": 50,
+    "width": 50,
+    "x": 848,
+    "y": 540
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1EA7DA3F-27BC-4CEE-93BC-704E2E08E488"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFEC10CF-636A-49C0-A212-2A3F14851D06"
+    }
+  ],
+  "name": "Icon / Social / Pinterest / Color",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC41AA3B-C8DD-4BA5-A45C-315DB7C6AC3D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

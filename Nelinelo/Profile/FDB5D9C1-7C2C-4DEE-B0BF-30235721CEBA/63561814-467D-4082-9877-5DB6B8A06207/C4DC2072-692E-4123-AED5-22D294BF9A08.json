@@ -62,11 +62,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 23,
+        "length": 32,
         "location": 6
       }
     ],
-    "string": "Cindee haven’t followers yet!"
+    "string": "Cindee doesn’t have any followers yet!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C4DC2072-692E-4123-AED5-22D294BF9A08",
@@ -85,18 +85,18 @@
     "constrainProportions": false,
     "do_objectID": "ADF27821-2F61-48F3-8410-117D53546D52",
     "height": 18,
-    "width": 209,
+    "width": 279,
     "x": 0,
     "y": 49
   },
-  "glyphBounds": "{{0, 1}, {208, 17}}",
+  "glyphBounds": "{{0, 1}, {278, 17}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Cindee haven’t follo",
+  "name": "Cindee doesn’t have",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

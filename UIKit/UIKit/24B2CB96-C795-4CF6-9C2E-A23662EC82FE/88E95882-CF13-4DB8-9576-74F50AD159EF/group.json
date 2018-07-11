@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "88E95882-CF13-4DB8-9576-74F50AD159EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A2DB2C3-74FE-4AFC-BA8F-0877570C9B38",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "284529EA-7680-4852-9C7B-CCA2B0D797A9",
+    "height": 446,
+    "width": 933,
+    "x": 45,
+    "y": 1152
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9E319CA3-D785-4037-B919-E798CD9CBA21"
+    },
+    {
+      "class": "group",
+      "id": "716BEE06-0F02-491A-9773-6C22A5104FD2"
+    },
+    {
+      "class": "group",
+      "id": "7E4D0304-6483-44D1-95B4-8B25A0F3CC3D"
+    }
+  ],
+  "name": "Upload Modal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "886A81FC-AC70-4F5E-A2C1-9DAAB68BAB43",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

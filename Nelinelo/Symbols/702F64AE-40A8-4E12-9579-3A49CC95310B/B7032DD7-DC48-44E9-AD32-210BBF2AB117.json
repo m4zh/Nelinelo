@@ -16,7 +16,7 @@
     "height": 108,
     "width": 108,
     "x": 434,
-    "y": 243
+    "y": 235
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,14 +24,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Contents / Auth / Interest Modal / Item Mulpti Line",
-  "nameIsFixed": false,
+  "name": "Item 9",
+  "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "6217E06D-22B1-4CEE-AEDE-E43C542000A9/69C1F8DC-C6D1-4B6F-925A-F3A6889FAB6F_stringValue",
-      "value": "Kids’ accessories"
-    },
     {
       "_class": "overrideValue",
       "overrideName": "3C64DBAB-2DC5-4DB6-A4FA-EDF52CC2B644_image",
@@ -40,6 +35,18 @@
         "_ref": "images/c178ba66b27204e03aa05cd9e8ae35610edfe1ea.png",
         "_ref_class": "MSImageData"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "14F8EA32-6EF8-4527-AD9A-A09FFCED37A1",
+      "overrideName": "6217E06D-22B1-4CEE-AEDE-E43C542000A9_symbolID",
+      "value": "17CBF379-43E2-4F2F-9A60-A1CB1A5CB58C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC592F5D-7442-4682-B9EC-5393D579E68F",
+      "overrideName": "6217E06D-22B1-4CEE-AEDE-E43C542000A9/0F83D383-30CF-4494-A3DD-CF585A45BAE9_stringValue",
+      "value": "Kids’ accessories"
     }
   ],
   "resizingConstraint": 63,

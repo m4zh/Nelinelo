@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "16EC2CDE-3F69-4B52-B8E6-EFB01BD2FB1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F658DEEF-7D44-4455-BC6A-2A1B61C19E9F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66692743-799E-4E02-89B5-9EAB68193066",
+    "height": 20,
+    "width": 211,
+    "x": 46,
+    "y": 2953
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox uncheck",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DCED59FC-2BEC-47EE-BE96-C12216A128BF",
+      "overrideName": "E7EB6D1E-1A6E-43E8-B01A-7E8DA83D282E_stringValue",
+      "value": "Checkbox checked disable"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6E3833E5-19D3-4458-AA6E-05DFA39684D0",
+      "overrideName": "A6C7665D-1651-402B-8FFE-94A8B77DF70E_symbolID",
+      "value": "219FB8F6-95FE-472B-9F29-5FFA8CFBA18B"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE283513-F4F9-4FDE-B213-CBEBA2C5C128",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "22E23B2F-618E-48DB-BEFC-3BE0F5A246DE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "36C7409E-724D-4E91-84A9-5117431E0AF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3901B76C-9CC6-4305-8205-9C55E51F3BBE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "070DBD9F-9301-42EB-8277-B029319474BE",
+    "height": 202,
+    "width": 160,
+    "x": 365,
+    "y": 225
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F1D5B1DA-5F1D-40E0-9AB0-470CBF5770FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1105911-321F-4855-AD89-8B5A25748820"
+    }
+  ],
+  "name": "Upload Hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F73CFD4-7C23-4069-A7F7-050C55B83C9F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "8CBB42E7-ABD6-48C6-896C-C0332EFA6BE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D555093F-46E6-4DAA-B9DD-9E7CB0443D82",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3477473F-7C73-4550-9785-866976F7BBAD",
+    "height": 50,
+    "width": 453,
+    "x": 0,
+    "y": 73
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0D444438-3C66-47CA-8C56-4FEF71405933"
+    },
+    {
+      "class": "group",
+      "id": "491D40B6-325F-44D8-A96D-CA307074279E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93D493B4-86D6-4BD9-A9FE-F6272D9DDF12"
+    },
+    {
+      "class": "text",
+      "id": "C9C8EF76-A348-4FFC-9AFB-085229F11D59"
+    }
+  ],
+  "name": "UIKit / Publisher / Default",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A0794FF-835F-45C1-8E66-312E0B5CD7F6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

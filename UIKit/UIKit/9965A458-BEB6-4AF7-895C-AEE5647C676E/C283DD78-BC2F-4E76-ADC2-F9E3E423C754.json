@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C283DD78-BC2F-4E76-ADC2-F9E3E423C754",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C736520-BC1B-470B-9739-DE8DA2CF753E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA80B311-8124-4387-A987-C11D66EF7E99",
+    "height": 65,
+    "width": 240,
+    "x": 367,
+    "y": 998
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UIKit / TextField / Split Text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6FF9883-83A8-4A5D-BC23-C37CC774F936",
+      "overrideName": "B8AD86BB-8EEF-4429-8E5A-61B66C771AC8_symbolID",
+      "value": "91272EE7-56D5-47B0-8DFF-B9FA984282A1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2F956E2-98F6-43AE-82FC-1541DFCBB373",
+      "overrideName": "B8AD86BB-8EEF-4429-8E5A-61B66C771AC8/84A65BCE-61CC-4F44-9277-5E16A0AFE361_stringValue",
+      "value": "cindee@nelinelo.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "08EFB83F-A6D1-40EE-9C8F-096B67BFBC91",
+      "overrideName": "CE8E7190-9526-457D-AEBB-6CFC7603F1FB_stringValue",
+      "value": "Default"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8313E1B-4894-4D42-9D75-E40DC629DCE9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B1CBFB2B-89B5-4599-B055-3D6F6961FEF0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

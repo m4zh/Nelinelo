@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "FE741380-75E3-440F-A3AB-134319928806",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "336F767A-C6B5-4E5F-B3A1-1E67A40CB29D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F5FDEED-38AC-4410-BAB0-EC230648116C",
+    "height": 50,
+    "width": 50,
+    "x": 607,
+    "y": 540
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "30576BCF-3C7C-4FF0-B31B-D233D13D21EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3B2706B-CC6A-49F9-B2CA-4FBE17D24A15"
+    }
+  ],
+  "name": "Btn_icon / Social / Twitter",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47E2D645-9A13-4E68-ACD9-A20E77D6B288",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1180,
+    "height": 1280,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -27,6 +27,16 @@
   "name": "Profile / Background Modal",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29CEDACD-45B4-486A-94FC-857F12FDBB37",
+      "overrideName": "C38D7A87-5BD7-424A-BDFC-D185373DE8A6_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/deafc3d1b5815ef44949f2f3a93f2db2644493d3.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

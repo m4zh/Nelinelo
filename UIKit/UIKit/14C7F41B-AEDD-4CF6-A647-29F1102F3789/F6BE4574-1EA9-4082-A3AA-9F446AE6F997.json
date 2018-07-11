@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F6BE4574-1EA9-4082-A3AA-9F446AE6F997",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "41E512B0-6E92-46B4-9F7A-DEE00CC51E1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C6E153B-FFF0-4F55-8DF4-CBBFE5EB60E5",
+    "height": 403,
+    "width": 319,
+    "x": 125,
+    "y": 156
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bar / Header / Notification / Message",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B22FD972-359F-4D9E-B191-D4833DC890C6",
+      "overrideName": "35220EBD-0219-4C96-9BEE-073C84B6D287_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B4F39B38-AB78-4ED0-A8CC-30EFB96D1233",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "80547A39-E37F-4D0F-A2BB-5D0C77E9C9AF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
