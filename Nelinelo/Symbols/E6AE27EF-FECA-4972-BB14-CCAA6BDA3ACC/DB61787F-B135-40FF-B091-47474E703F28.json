@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2196078431372549,
-            "green": 0.196078431372549,
-            "red": 0.1882352941176471
+            "blue": 0.580392156862745,
+            "green": 0.5137254901960785,
+            "red": 0.4705882352941176
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
-              "size": 22
+              "name": "Roboto-Regular",
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -26,18 +26,18 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Click & Collect: "
+    "string": "Estimated shipping time"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "C1466702-2201-45AB-AF14-D72C083B1D57",
+  "do_objectID": "DB61787F-B135-40FF-B091-47474E703F28",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C14D5050-7172-42A5-B4CD-868DA811AB8F",
+    "do_objectID": "6B51E3A5-E0AB-4D93-BEDA-D228F239A4CC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -48,20 +48,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "54E9EE21-49FB-426A-A849-E9D61F4C0876",
-    "height": 25,
-    "width": 156,
-    "x": 0,
-    "y": 264
+    "do_objectID": "5859B49B-8983-4044-8B8B-7BC695DB3383",
+    "height": 16,
+    "width": 151,
+    "x": 74,
+    "y": 2171
   },
-  "glyphBounds": "{{0, 3}, {149, 18}}",
+  "glyphBounds": "{{1, 2}, {150, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Click & Collect:",
+  "name": "Estimated shipping t",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -69,26 +69,26 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "79348F93-B1E4-40A0-95FB-EA9072590903",
+    "do_objectID": "CA761E95-BBC4-4BAC-B263-563E7AA7BD96",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "34F551CE-9596-4A6D-A6D6-5A8F30D9765D",
+      "do_objectID": "63154E42-1C1D-49A1-AEC4-33233D4D06E7",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2196078431372549,
-          "green": 0.196078431372549,
-          "red": 0.1882352941176471
+          "blue": 0.580392156862745,
+          "green": 0.5137254901960785,
+          "red": 0.4705882352941176
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
-            "size": 22
+            "name": "Roboto-Regular",
+            "size": 14
           }
         },
         "paragraphStyle": {

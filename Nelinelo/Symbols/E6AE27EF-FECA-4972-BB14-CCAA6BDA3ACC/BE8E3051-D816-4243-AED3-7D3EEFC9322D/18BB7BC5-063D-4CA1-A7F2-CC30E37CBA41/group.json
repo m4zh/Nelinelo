@@ -1,9 +1,9 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "AF81D412-5C5D-4896-BE51-2F82787E1EF3",
+  "_class": "group",
+  "do_objectID": "18BB7BC5-063D-4CA1-A7F2-CC30E37CBA41",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "119E52BF-07CE-4D44-88BF-C5EAD29DFDC3",
+    "do_objectID": "43F4E472-13FC-4411-B094-BBD3307A9511",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,40 +14,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D7B4CAD8-B27B-4873-9A0D-D6687BBD2604",
-    "height": 103,
-    "width": 458,
-    "x": 326,
-    "y": 2038
+    "do_objectID": "C4F06D12-9777-4A81-8D48-1D8CA514D54A",
+    "height": 19,
+    "width": 93,
+    "x": 0,
+    "y": 0
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "UIKit / TextField / Default / Border / Default",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "text",
+      "id": "6486B1C0-CE35-4793-A031-AF3EA15728B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64FDB7CE-8FEC-438A-8D33-27C2FCA61702"
+    }
   ],
+  "name": "Add member button",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "21F7EE8A-8D65-4891-80A8-90FD7FB3259A",
+    "do_objectID": "A1B2EA7A-C607-460C-8BD9-A76A1534C69C",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "EE900750-AEA6-4A23-88D2-5798109EB174",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }
