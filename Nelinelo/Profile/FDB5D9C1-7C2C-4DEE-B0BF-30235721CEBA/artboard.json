@@ -22,10 +22,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9BD71054-A105-4D2E-8CC1-1BD7CDB09B99",
-    "height": 2688,
+    "height": 2577,
     "width": 1440,
-    "x": -4689,
-    "y": -229
+    "x": 1490,
+    "y": 14645
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -74,16 +74,16 @@
       "id": "E744E177-BB29-4C48-B1C8-7436307065C5"
     },
     {
-      "class": "group",
-      "id": "9A86DBA5-BB2D-45A2-AA48-44B836E31C0B"
-    },
-    {
       "class": "symbolInstance",
       "id": "B7BDCFA6-B56B-4497-A171-FB745A1019EB"
     },
     {
       "class": "symbolInstance",
       "id": "DD76DC6B-D311-4D7E-BAEE-7E073F3E9898"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B258641-ACC5-4CB8-A65E-E82BE7EF533D"
     }
   ],
   "layout": {
@@ -102,8 +102,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Public / Blank",
-  "nameIsFixed": false,
+  "name": "Profile / Individual / Public / 2. Blank",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

@@ -22,10 +22,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DD81659D-8F8D-43BA-A655-039A73C7DFD9",
-    "height": 4804,
+    "height": 4261,
     "width": 1440,
-    "x": 621,
-    "y": -229
+    "x": 1490,
+    "y": 10284
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -106,8 +106,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Owner / Blank",
-  "nameIsFixed": false,
+  "name": "Profile / Individual / Owner / Blank / 2. Recommended  Collections",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

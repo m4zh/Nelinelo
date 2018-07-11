@@ -22,13 +22,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F18D4708-C6D7-4CB9-B736-82EC12223E10",
-    "height": 6538,
+    "height": 6600,
     "width": 1440,
-    "x": -10598,
-    "y": -232
+    "x": 2980,
+    "y": 19361
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -43,20 +43,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "group",
-      "id": "D2233E8C-BB10-47F3-9E00-26AF94BA13CC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "74AE938A-39D7-47AD-8E4E-F9151AAC5509"
-    },
-    {
-      "class": "group",
-      "id": "1B6BDAB9-E335-4994-8140-8A30F4700F1F"
-    },
     {
       "class": "shapeGroup",
       "id": "14A35651-CB26-4542-85E4-36D9933F0511"
@@ -64,10 +52,6 @@
     {
       "class": "symbolInstance",
       "id": "836AC5E4-4C30-4E53-A55F-DC96D1F9B774"
-    },
-    {
-      "class": "text",
-      "id": "24CF1630-549E-43AC-B654-061497DD4530"
     },
     {
       "class": "shapeGroup",
@@ -82,10 +66,6 @@
       "id": "D877937F-16F0-4B68-B26E-5024F1D97975"
     },
     {
-      "class": "text",
-      "id": "F2DB6446-C612-4AFD-A16E-FD4C1B6C771C"
-    },
-    {
       "class": "shapeGroup",
       "id": "C70D4187-B657-4A87-9AAC-6F5BCC4CC1E0"
     },
@@ -94,84 +74,28 @@
       "id": "64C3522D-5D9A-41CE-9748-41060A5CFBDE"
     },
     {
-      "class": "text",
-      "id": "0B65BC63-EE76-4194-A8B4-406D234CB78E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F63C9DFA-5DE4-470E-96F4-CA1078605200"
-    },
-    {
-      "class": "group",
-      "id": "6C2EB21D-54F4-417B-9DC1-96F164E7C221"
-    },
-    {
-      "class": "text",
-      "id": "E147B472-2225-4D81-B245-DDB6DBD844E5"
+      "class": "symbolInstance",
+      "id": "E4573988-2814-4B64-B66D-9ACC7BFE805C"
     },
     {
       "class": "symbolInstance",
-      "id": "808CA6D9-1C0B-40BC-A0E8-291E86FCB045"
-    },
-    {
-      "class": "group",
-      "id": "ABD6A2E7-1019-4CAA-94A1-3DD48AEB40EA"
-    },
-    {
-      "class": "group",
-      "id": "F17D2E75-4FC9-4189-89D9-2683311346D6"
-    },
-    {
-      "class": "group",
-      "id": "C2E53A34-16B5-4D3D-89F0-6F1704E9CEE0"
-    },
-    {
-      "class": "group",
-      "id": "AD70DF1B-113B-4429-B43F-99ECFAF80BA4"
+      "id": "5B2DE6B8-29F4-4207-9570-19E9173A523E"
     },
     {
       "class": "symbolInstance",
-      "id": "564E2244-3AD0-46C3-9F73-169497291530"
-    },
-    {
-      "class": "text",
-      "id": "4864C4BB-F605-4801-8B31-C3818493726C"
-    },
-    {
-      "class": "text",
-      "id": "19E247C6-CD89-4D62-AC2C-D45BF92AF763"
-    },
-    {
-      "class": "text",
-      "id": "F00B7DD8-9618-4FA7-98AE-B87B954E1041"
+      "id": "A5F00899-6FFC-475E-85CA-D326C19EFC03"
     },
     {
       "class": "symbolInstance",
-      "id": "A3705039-7E8F-4BF9-A078-2C3AC7235F7C"
-    },
-    {
-      "class": "group",
-      "id": "A7C510F5-F86C-41A1-B824-B08DFEB10341"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A83E064B-EA71-4877-AA5A-5928D64C54B1"
-    },
-    {
-      "class": "group",
-      "id": "A0D50C5A-CC26-4C4B-896C-2DC500D3B005"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "96582697-9ABA-4AEC-BD1A-C3A317BD04E6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3007790B-3381-4008-AB29-2DAAE83920B5"
+      "id": "6C24ED24-115B-4C7A-9C02-91B46284F992"
     },
     {
       "class": "symbolInstance",
       "id": "A840B58B-7A58-4463-B13D-803F6E460DBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22E27329-44C9-4610-BE85-A0989190F690"
     }
   ],
   "layout": {
@@ -190,8 +114,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Shop / Owner",
-  "nameIsFixed": false,
+  "name": "Profile / Shop / Owner / 1. Page / Hover",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "56830ACF-5B35-4A5A-868B-D91CBEEAF282",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3AAACA0B-A550-40BA-B9CF-A43988D1B5DB",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8AE36FBF-8262-4036-90AD-6F506C76A5D5",
+    "height": 21,
+    "width": 18,
+    "x": 773,
+    "y": 1683
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "524C3619-94EA-40B9-B38A-56902165CD53"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8544C1F5-6E3A-4872-A77B-89DEFEA07B9D"
+    }
+  ],
+  "name": "edit-3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FFB7C663-8566-4753-9787-3A21AB270A3A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

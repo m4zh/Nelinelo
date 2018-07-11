@@ -22,10 +22,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "272C9B1D-D084-4B42-8D6C-3D2E64170959",
-    "height": 1180,
+    "height": 1360,
     "width": 1440,
-    "x": 4096,
-    "y": -270
+    "x": 2980,
+    "y": 10284
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -43,23 +43,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "85E1373C-BA5E-48ED-A26E-1F0A6A0BEAAE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DB032CD1-BD13-49BC-A7E1-B0456B89CDB9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3B039D31-BB01-4FC1-A351-D35DEAAA6C9B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F63C9E2E-52BE-4417-B793-E5EDDEC8F02E"
     },
     {
       "class": "symbolInstance",
@@ -86,8 +74,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Owner / Blank / Interest",
-  "nameIsFixed": false,
+  "name": "Profile / Individual / Owner / Blank / 3. Interest",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

@@ -17,7 +17,7 @@
     "height": 40,
     "width": 255,
     "x": 0,
-    "y": 280
+    "y": 325
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,8 +25,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Contents / Common / Categories List / Selected Item",
-  "nameIsFixed": false,
+  "name": "Line 7",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

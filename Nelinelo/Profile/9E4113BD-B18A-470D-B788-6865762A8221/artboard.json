@@ -25,11 +25,11 @@
     "do_objectID": "2BA04788-2E4C-4C41-A441-FF48E79AB0DF",
     "height": 1180,
     "width": 1440,
-    "x": -16912,
-    "y": 5766
+    "x": 1490,
+    "y": 33629
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -83,7 +83,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Shop / Public / Contact / Filled",
+  "name": "Profile / Shop / Public / 5. Contact / Filled",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

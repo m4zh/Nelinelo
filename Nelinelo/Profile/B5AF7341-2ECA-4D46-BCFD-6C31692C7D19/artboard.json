@@ -22,10 +22,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F2D5E7AC-B6BE-478F-B0EA-E44263BF34F4",
-    "height": 1180,
+    "height": 2048,
     "width": 1440,
-    "x": -8822,
-    "y": -229
+    "x": 0,
+    "y": 26061
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -43,11 +43,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "14A3D25B-3A37-498E-9435-3E92DEB21AAB"
+      "class": "symbolInstance",
+      "id": "8F233301-BF2C-4086-AB8A-8CA4F4359AF9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E110447A-FB12-473C-94E6-8D75AFF48750"
     }
   ],
   "layout": {
@@ -66,8 +70,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Shop / Owner / Edit Profile",
-  "nameIsFixed": false,
+  "name": "Profile / Shop / Owner / 3. Edit Profile",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

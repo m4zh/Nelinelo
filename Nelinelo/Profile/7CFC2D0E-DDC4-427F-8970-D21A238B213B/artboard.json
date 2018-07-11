@@ -22,10 +22,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "49FFC9FD-64F7-486D-A21F-D047B5ACC881",
-    "height": 1180,
+    "height": 1280,
     "width": 1440,
-    "x": 12208,
-    "y": 1056
+    "x": 2980,
+    "y": 4764
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -70,8 +70,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Owner / Interests / Add Categories",
-  "nameIsFixed": false,
+  "name": "Profile / Individual / Owner / 3. Interests / Add Categories",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 10,
+  "changeIdentifier": 67,
   "do_objectID": "C6B572B3-0B36-40AD-87BD-61B47B6156A3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 40,
     "width": 255,
-    "x": 20946,
-    "y": 1040
+    "x": 16048,
+    "y": 635
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,8 +45,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "4C9DBE6F-A023-4E6F-831F-7717D8A75F07"
+      "class": "shapeGroup",
+      "id": "C2D6601D-A48A-409F-AAA4-612AC744728D"
+    },
+    {
+      "class": "text",
+      "id": "9256DFC0-748E-4F8B-B209-DBF5F697FD03"
+    },
+    {
+      "class": "text",
+      "id": "E13B9B4E-FE1F-41A3-A23E-81307CF615DE"
     }
   ],
   "name": "Contents / Common / Categories List / Sub-Category",
@@ -63,6 +71,12 @@
     "startDecorationType": 0
   },
   "symbolID": "A20195E5-133C-4410-AB72-733CB8A62FC5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

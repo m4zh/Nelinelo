@@ -1,0 +1,116 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2804,
+  "do_objectID": "DD8DB5D4-E80D-4163-BC1F-91B06EDA138D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 978,
+    "width": 920,
+    "x": 52716,
+    "y": 1264
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "64CC9CC1-BEBB-4525-A534-020AEFFD3828"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "52EEA677-63DC-4E7A-A755-5A66C06DFDF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3954241E-53C2-4F52-A028-C9A52F8EB919"
+    },
+    {
+      "class": "group",
+      "id": "A9D1EC90-6F7C-400F-84B1-6A69A6FE7B1D"
+    },
+    {
+      "class": "group",
+      "id": "A490CB51-CC95-48FB-BDAD-8EA8D11A9003"
+    },
+    {
+      "class": "group",
+      "id": "A8D34B54-87E1-405C-B67F-3CFFA3D12C47"
+    },
+    {
+      "class": "group",
+      "id": "F0186FB2-F76A-496B-9816-78963FAF73ED"
+    },
+    {
+      "class": "group",
+      "id": "0412088C-E49F-416A-A547-7AC8622B6A4F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "692E869E-D271-4302-9674-AA385BA6ECD1"
+    },
+    {
+      "class": "text",
+      "id": "B176FC07-397F-41FF-BEFF-C050C107ACC5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E1EEC48-F2FD-4AA5-8BA7-DE0FEC282A7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4A392F3-5369-411E-9DFB-226344B892C8"
+    }
+  ],
+  "name": "Contents / Profile / Shop / Owner / Edit Profile Modal",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "772AF8B7-8023-48CC-BF11-19BBEB0FBBBA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

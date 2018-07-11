@@ -22,13 +22,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E34816F5-401C-495B-A1F3-316742D65B83",
-    "height": 1376,
+    "height": 1360,
     "width": 1440,
-    "x": 4096,
-    "y": 1056
+    "x": 4470,
+    "y": 10284
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -55,7 +55,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "8AE1FCDB-2D14-4985-9AC5-A3780B6B4182"
+      "id": "B74FC35A-7602-4DEA-8CAA-9C39C1F54A49"
     }
   ],
   "layout": {
@@ -74,8 +74,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Owner / Blank / Created",
-  "nameIsFixed": false,
+  "name": "Profile / Individual / Owner / Blank / 4. Created",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

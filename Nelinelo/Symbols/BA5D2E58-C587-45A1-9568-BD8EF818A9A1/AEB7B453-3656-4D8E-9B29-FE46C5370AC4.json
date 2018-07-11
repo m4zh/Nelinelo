@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AEB7B453-3656-4D8E-9B29-FE46C5370AC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CEC9DA78-5DD0-47D4-B61E-0207D8B06217",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79AA8C3A-925E-4080-812D-B69214940028",
+    "height": 325,
+    "width": 255,
+    "x": 285,
+    "y": 710
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Homepage / Cart Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72CD2C4D-49FF-4EB4-8DD7-0384F64A16EF",
+      "overrideName": "FFE261F4-9F00-473B-AB36-086574FC8C55_stringValue",
+      "value": "Mister Montreal / Super Doudou T..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2F36A35-1528-4214-91F2-2657D0556CA3",
+      "overrideName": "1A45DD3A-56C9-4FDF-8E1F-79804CC83D6F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8fe4cc796dff5840f2800665d9aa2b519cf78242.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5703B45D-690D-4B39-9AAE-938AFBC13276",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "38D8AF3F-A1B3-4155-A41D-14D159E197D6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

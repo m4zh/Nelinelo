@@ -14,10 +14,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8180879A-3F01-4015-8D8A-9389A82FDA5E",
-    "height": 1370,
+    "height": 1424,
     "width": 1110,
     "x": 165,
-    "y": 3243
+    "y": 3236
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,8 +25,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Contents / Profile / About / Items",
-  "nameIsFixed": false,
+  "name": "Contents / Profile / About / Section",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

@@ -24,8 +24,8 @@
     "do_objectID": "F67CA59E-455F-47F5-BAA7-E9E2FE2EC91A",
     "height": 1180,
     "width": 1440,
-    "x": -18575,
-    "y": 8199
+    "x": 0,
+    "y": 34909
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -86,8 +86,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Shop / Public / Followers",
-  "nameIsFixed": false,
+  "name": "Profile / Shop / Public / 6. Followers",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

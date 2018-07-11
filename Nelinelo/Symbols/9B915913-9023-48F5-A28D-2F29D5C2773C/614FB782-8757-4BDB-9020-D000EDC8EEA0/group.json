@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "do_objectID": "614FB782-8757-4BDB-9020-D000EDC8EEA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 277,
+    "width": 1110,
+    "x": 0,
+    "y": 737
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0FDBD3AA-FABA-4280-A07A-82EA5F8DF12C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B826BB0-076C-4D4C-8815-EE04EB1B15D3"
+    },
+    {
+      "class": "text",
+      "id": "DEFA7230-C4E7-47A3-AEF1-F301AE68974C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9146CA79-0906-4C92-BEF3-41B40D7CC0B2"
+    },
+    {
+      "class": "text",
+      "id": "C28E2A11-08FC-4B13-9086-1A20F80A8A05"
+    },
+    {
+      "class": "text",
+      "id": "1D10186C-A95D-46B3-AFFC-E7C06DDAFF64"
+    },
+    {
+      "class": "text",
+      "id": "56D09075-BE3C-4CD3-93A9-E397ECDD5C46"
+    },
+    {
+      "class": "text",
+      "id": "EFC0389D-5890-4686-AEC1-479DD5F62FF1"
+    },
+    {
+      "class": "text",
+      "id": "51642D4C-9DA3-4C5F-B4E5-A2CC463B3845"
+    },
+    {
+      "class": "text",
+      "id": "DF98CACE-F15B-41D4-B5F3-374083070A48"
+    },
+    {
+      "class": "text",
+      "id": "D2FED528-4427-4E85-B767-B712E7F4C3C6"
+    },
+    {
+      "class": "group",
+      "id": "E6B7C5C8-6CDC-4A3F-98D8-F012191D5F8E"
+    }
+  ],
+  "name": "Opening hours & Address",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

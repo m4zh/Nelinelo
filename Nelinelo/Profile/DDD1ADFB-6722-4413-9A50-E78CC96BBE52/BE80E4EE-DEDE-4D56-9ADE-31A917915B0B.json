@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BE80E4EE-DEDE-4D56-9ADE-31A917915B0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9547C5D-72CF-49E6-960A-8491FF18DA47",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A1E77BFC-1B41-4AA3-A198-E482FA704487",
+    "height": 1280,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Profile / Background Modal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29CEDACD-45B4-486A-94FC-857F12FDBB37",
+      "overrideName": "C38D7A87-5BD7-424A-BDFC-D185373DE8A6_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e68f51f990edf6594848ce1c3f96c0bca1dee3e1.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44C5CFA4-187D-4A29-B210-4A4C76A2A1ED",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "681E43E5-7DEF-4425-B1BC-6D0B2B5E6668",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

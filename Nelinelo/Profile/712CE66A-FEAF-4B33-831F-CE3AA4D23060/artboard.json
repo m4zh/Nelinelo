@@ -24,8 +24,8 @@
     "do_objectID": "6E9639FC-1FC6-4469-AC25-1B9EA6C65EF7",
     "height": 1280,
     "width": 1440,
-    "x": 20537,
-    "y": 2586
+    "x": 0,
+    "y": 7524
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -43,12 +43,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "group",
-      "id": "E546D755-DFDF-45B6-B15F-6B4D149929FA"
-    },
     {
       "class": "symbolInstance",
       "id": "56BFFB9D-A37F-4D9C-84E8-01B958996105"
@@ -68,6 +64,10 @@
     {
       "class": "group",
       "id": "1DEA2788-7B1E-454D-AFD8-0EA1DD30E4B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78F6BB2D-A364-4E82-8E57-FD0F2327D5B6"
     }
   ],
   "layout": {
@@ -86,8 +86,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Owner / Collections / Followed",
-  "nameIsFixed": false,
+  "name": "Profile / Individual / Owner / 4. Collections / Followed",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

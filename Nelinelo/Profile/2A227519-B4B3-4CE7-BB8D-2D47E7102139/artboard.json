@@ -22,10 +22,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "00F08F2D-82C5-42A8-9062-0EB624459598",
-    "height": 5113,
+    "height": 4664,
     "width": 1440,
-    "x": 8984,
-    "y": -513
+    "x": 1490,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -43,71 +43,55 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "group",
-      "id": "CB12B9D0-7945-4EF2-A756-E4FA69E63F85"
-    },
-    {
-      "class": "group",
-      "id": "21DED0A0-433B-4838-97C0-5C9BBC53A966"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4CCC8E42-02D0-4C92-9F4C-B5F3A3D5E41D"
-    },
-    {
-      "class": "group",
-      "id": "559C772A-A226-4AA5-AED1-24B1EBD25324"
-    },
-    {
-      "class": "group",
-      "id": "72C47A29-6F27-4495-9F70-A39EBD43DAC2"
-    },
-    {
-      "class": "group",
-      "id": "E35A6132-64EA-47E7-AFAD-1A6DECC04B6A"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A11215C9-B0C7-4A00-9647-BE70F5762495"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "03933622-BE48-4C72-9ECB-341F93DDA159"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "881AF66D-4C5E-4A8D-B2C3-68423FD0AF08"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A911D496-BE5E-479C-BE92-97DF771AB92D"
-    },
     {
       "class": "symbolInstance",
       "id": "77EEE560-CEBF-4862-A669-82EB58717485"
     },
     {
       "class": "symbolInstance",
-      "id": "42DC98DA-4BA7-4EA4-8BE0-7DE7E49E4244"
+      "id": "F53FB2FD-FE78-477F-AEE6-67FD22404403"
     },
     {
       "class": "symbolInstance",
-      "id": "C49A4F9E-72F7-4EF6-B934-BF50ADC730F3"
+      "id": "471E9AE4-F4C3-4DB8-8379-5BEBA66CD0EC"
     },
     {
       "class": "symbolInstance",
-      "id": "6893AE27-FC13-4A72-92F5-5BEA06D0560F"
+      "id": "0E192051-E920-43D3-BB13-C4F5E2AD35D9"
+    },
+    {
+      "class": "group",
+      "id": "FFDDAE77-11DC-48B7-A3B4-FE250AD0F78B"
     },
     {
       "class": "symbolInstance",
-      "id": "1A0F2181-0953-40AE-A772-402C5BD04A8F"
+      "id": "94389393-8BC4-4EA5-AB06-9B8408BA419F"
+    },
+    {
+      "class": "group",
+      "id": "6727D595-5B36-4B6B-A058-3A8622A6A971"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFCEF219-AAFE-438A-B049-E6B00534CD8B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5CD371E-4356-4B41-B0F0-14516B240371"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF978FA7-9D03-4B30-9136-8B7E6856A3C5"
     },
     {
       "class": "symbolInstance",
-      "id": "90BD19C2-B4A5-4F01-8DA5-8B660ABC608D"
+      "id": "2F5C5B74-E5EE-4D4E-96E3-AF74D6C0B77E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E316A5E-C279-4048-9F67-7979415C4259"
     }
   ],
   "layout": {
@@ -126,8 +110,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Owner / Header Hover",
-  "nameIsFixed": false,
+  "name": "Profile / Individual / Owner / 1. Page / Hover",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

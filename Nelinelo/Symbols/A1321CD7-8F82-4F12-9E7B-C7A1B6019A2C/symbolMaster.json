@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1192,
+  "changeIdentifier": 1202,
   "do_objectID": "A1321CD7-8F82-4F12-9E7B-C7A1B6019A2C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 90,
     "width": 255,
-    "x": 22181,
-    "y": 2179
+    "x": 17048,
+    "y": 1054
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",

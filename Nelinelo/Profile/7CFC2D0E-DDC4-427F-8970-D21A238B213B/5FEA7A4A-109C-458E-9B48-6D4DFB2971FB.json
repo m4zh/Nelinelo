@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0FCCA87E-51CD-4CA2-9675-8A18B8E4DF3E",
-    "height": 1180,
+    "height": 1280,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -34,7 +34,7 @@
       "overrideName": "C38D7A87-5BD7-424A-BDFC-D185373DE8A6_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/ff0dfafe6c5df5d9a1adebfb66367a8b6fa78792.png",
+        "_ref": "images/84db20136536927debad26cab152a3c42021a569.png",
         "_ref_class": "MSImageData"
       }
     }

@@ -456,6 +456,14 @@
     {
       "class": "symbolInstance",
       "id": "AC7AEC9C-B2A7-47F5-AA84-8126906E4391"
+    },
+    {
+      "class": "group",
+      "id": "F5ED7B8A-68E3-4E5A-A16F-2D07D45F9DE2"
+    },
+    {
+      "class": "group",
+      "id": "56830ACF-5B35-4A5A-868B-D91CBEEAF282"
     }
   ],
   "layout": {

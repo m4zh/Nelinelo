@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "98BF7E15-A7D2-4A47-ABE1-B0B4C1F7B48E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 21,
+    "x": 395,
+    "y": 324
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "26457E05-C7B4-4C74-B8FB-E4ADB8C6A46F"
+    }
+  ],
+  "name": "Shop icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 18,
+            "enabled": 1,
+            "modelID": "constraint_2b20c624-c946-4f23-8837-c79e29991ef5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 20.57143
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_3591e219-d0b2-4edb-9116-ed8315ebbe49",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

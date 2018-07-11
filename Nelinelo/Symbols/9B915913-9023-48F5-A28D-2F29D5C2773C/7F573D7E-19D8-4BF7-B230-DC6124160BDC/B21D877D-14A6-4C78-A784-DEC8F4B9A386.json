@@ -28,123 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 32,
+        "length": 719,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3490196078431372,
-            "green": 0.3098039215686275,
-            "red": 0.2941176470588235
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Bold",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 13,
-        "location": 32
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3490196078431372,
-            "green": 0.3098039215686275,
-            "red": 0.2941176470588235
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Light",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 467,
-        "location": 45
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3490196078431372,
-            "green": 0.3098039215686275,
-            "red": 0.2941176470588235
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Bold",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 11,
-        "location": 512
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3490196078431372,
-            "green": 0.3098039215686275,
-            "red": 0.2941176470588235
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Light",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 196,
-        "location": 523
       }
     ],
-    "string": "This just in! Our organic line, Little Planet is crafted in 100% organic cotton. Bodysuits, PJs, Sleep & Plays, and more, this soft collection is certified by the Global Organic Textile Standard and offers only the best quality for your precious one. You’ll always remember baby’s first bodysuit, the set he came home in, her favorite booties and most worn PJs. With you from the start, Carter’s is excited to celebrate baby’s first everything in cute, colorful, fresh, happy style.\n\nWhen it’s time for bed, our baby pajama options are endless. One to four piece sets crafted in snug-fit cotton, cozy fleece or polyester jersey, with long or short sleeves and footed or footless designs, feature baby’s favorite prints "
+    "string": "This just in! Our organic line, Little Planet is crafted in 100% organic cotton. Bodysuits, PJs, Sleep & Plays, and more, this soft collection is certified by the Global Organic Textile Standard and offers only the best quality for your precious one. You’ll always remember baby’s first bodysuit, the set he came home in, her favorite booties and most worn PJs. With you from the start, Carter’s is excited to celebrate baby’s first everything in cute, colorful, fresh, happy style.\n\nWhen it’s time for bed, our Baby Pajama options are endless. One to four piece sets crafted in snug-fit cotton, cozy fleece or polyester jersey, with long or short sleeves and footed or footless designs, feature baby’s favorite prints "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B21D877D-14A6-4C78-A784-DEC8F4B9A386",
@@ -167,7 +55,7 @@
     "x": 570,
     "y": 41
   },
-  "glyphBounds": "{{0, 4}, {536, 237}}",
+  "glyphBounds": "{{0, 3}, {533, 237}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FA1ACB1F-CC2D-4D83-BB52-6417C0E3859C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "728D8A80-342D-4670-BDED-E642B17C553E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B5AC34B-497B-4E94-B59C-1FAE139F0E64",
+    "height": 60,
+    "width": 246,
+    "x": 0,
+    "y": 68
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Facebook",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71C13B09-AF63-4430-8260-F4295934B7E7",
+      "overrideName": "16A1DAE3-4FE3-4470-9F2C-C4F3B1369192_symbolID",
+      "value": "801C91E5-4001-46A9-82AA-5DFB781DC8FC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51EDC1E9-83F1-4C8F-BD75-64E43823E6AB",
+      "overrideName": "08D125CE-2212-42DA-A03C-862EC1922CC3_symbolID",
+      "value": "3F109A96-6312-41E6-B56D-1A81791D9D28"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5588307A-6D92-43CD-B1B7-B90DAE69A327",
+      "overrideName": "08D125CE-2212-42DA-A03C-862EC1922CC3/831C7A24-8CE7-4EBA-8511-A66B1CEEBB7E_stringValue",
+      "value": "Facebook"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3E7F5AA-75C7-4138-BF42-C3AC9AC723D0",
+      "overrideName": "39D8A27B-9BDB-450C-96AC-41AA39D44D94_symbolID",
+      "value": "5D297026-6B2F-4EC4-ADC2-4834F1E40B1C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5448097A-2731-4D8B-85E7-84D6D5AA4FE4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8E0B87A4-6779-4F6E-BB17-5E64C170E080",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "A1CEAF92-1941-4FEA-BA37-62DF48150509",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 342,
+    "x": 395,
+    "y": 508
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0B64DB1A-3F8F-4BEC-A93C-42118A11011A"
+    },
+    {
+      "class": "group",
+      "id": "494831FF-342D-4FBB-9F0E-F6F390F380AB"
+    },
+    {
+      "class": "group",
+      "id": "D77CACB6-B7E5-4C37-8A8B-211CFCC05E0F"
+    },
+    {
+      "class": "group",
+      "id": "641A9237-9384-4B8E-B7BD-C4125824E7DE"
+    },
+    {
+      "class": "group",
+      "id": "D4EFAD1A-EC3D-4897-BFE9-056F1144759A"
+    },
+    {
+      "class": "group",
+      "id": "595A8A57-81D5-491B-BC80-0693F98D9F5A"
+    },
+    {
+      "class": "group",
+      "id": "BDBF4772-D486-4AD4-8F0E-981E12511415"
+    }
+  ],
+  "name": "Social buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

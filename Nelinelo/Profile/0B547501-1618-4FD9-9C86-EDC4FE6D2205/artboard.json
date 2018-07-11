@@ -22,10 +22,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "825B824F-9A8E-469E-9F08-5416D381FB1A",
-    "height": 1376,
+    "height": 1360,
     "width": 1440,
-    "x": 5626,
-    "y": 1056
+    "x": 5960,
+    "y": 10284
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -74,8 +74,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Owner / Blank / Followed",
-  "nameIsFixed": false,
+  "name": "Profile / Individual / Owner / Blank / 5. Followed",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A2B6EED0-7386-4141-ABFA-0E5BBA1A4172",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "30FBEA56-222D-4A82-AE7B-5E4BA85A2B42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "30EA24D7-E8E3-4AF1-B96D-EDF8DD072677",
+    "height": 60,
+    "width": 246,
+    "x": 272,
+    "y": 154
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Pinterest",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41C364CF-E64E-4EE0-9FED-F1BC335192B8",
+      "overrideName": "07435AD1-FA34-46A3-84D9-2E4BA1450C7F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71C13B09-AF63-4430-8260-F4295934B7E7",
+      "overrideName": "16A1DAE3-4FE3-4470-9F2C-C4F3B1369192_symbolID",
+      "value": "6B4F227E-04AF-4F4B-9F3D-4C872DE61021"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E17A94A0-A32A-42B9-B772-2F9BEC015CAE",
+      "overrideName": "08D125CE-2212-42DA-A03C-862EC1922CC3/A032779E-17D2-447C-A60C-4239D18719E9_stringValue",
+      "value": "Pinterest"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "627CD797-1AD3-47F9-9B68-11544B0C172E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8E0B87A4-6779-4F6E-BB17-5E64C170E080",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

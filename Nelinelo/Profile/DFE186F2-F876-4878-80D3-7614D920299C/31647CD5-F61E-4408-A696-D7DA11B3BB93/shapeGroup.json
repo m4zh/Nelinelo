@@ -18,7 +18,7 @@
     "height": 1,
     "width": 1110,
     "x": 165,
-    "y": 1517
+    "y": 1421
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,8 +33,8 @@
       "id": "705D69E0-CE95-4ED5-B6B6-1AD3A7185E9E"
     }
   ],
-  "name": "Rectangle 4",
-  "nameIsFixed": false,
+  "name": "Divider",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 35,
+  "changeIdentifier": 460,
   "do_objectID": "DA15E0BF-3F23-4B6F-8BB0-15F5A127E7A9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 1035,
     "width": 825,
-    "x": 45009,
+    "x": 40382,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -46,11 +46,15 @@
   "layers": [
     {
       "class": "group",
-      "id": "BC2B90DD-27FC-4496-910C-A2FB284FB084"
+      "id": "39F37516-0AEB-4524-9821-5E76DFAC9CD8"
+    },
+    {
+      "class": "text",
+      "id": "6C6836CD-F20A-4F48-82A3-12D132E5D236"
     }
   ],
-  "name": "Contents / Profile / Shop / Items",
-  "nameIsFixed": false,
+  "name": "Contents / Profile / Shop / No Items",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

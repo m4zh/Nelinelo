@@ -29,6 +29,30 @@
   "name": "Contents / Profile / Collections / Section",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "492E3CAB-A1CD-4A9E-A76B-6B724629F546",
+      "overrideName": "F0B761E6-BF1B-4E20-940B-C43E1DD34FD1/5B94C524-A330-40EC-8D98-609D89D306CC/B1B1BA22-C28E-4698-9DA8-97FC3ADF1FCC_symbolID",
+      "value": "1DB8E3C2-A13D-448E-B286-721CAB545E56"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "773A1922-DDF7-4ADF-8B5C-4FD5D2F15946",
+      "overrideName": "F0B761E6-BF1B-4E20-940B-C43E1DD34FD1/5B94C524-A330-40EC-8D98-609D89D306CC/CD3CD470-25EE-4564-A5FD-23E664BAE36A_symbolID",
+      "value": "77BD7022-2A6F-44F4-9467-649571F7E95F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7DB59914-5C46-4D07-AA35-9B4D1E5EAD28",
+      "overrideName": "F0B761E6-BF1B-4E20-940B-C43E1DD34FD1/7BE82B81-EA79-4FE7-9B7B-0DF8507E36FC/CD3CD470-25EE-4564-A5FD-23E664BAE36A_symbolID",
+      "value": "77BD7022-2A6F-44F4-9467-649571F7E95F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBEE3221-6462-4B45-8C4E-FBB7314B6D19",
+      "overrideName": "F0B761E6-BF1B-4E20-940B-C43E1DD34FD1/D1A29934-218D-4E21-9BA4-64BD96064A4B/CD3CD470-25EE-4564-A5FD-23E664BAE36A_symbolID",
+      "value": "77BD7022-2A6F-44F4-9467-649571F7E95F"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

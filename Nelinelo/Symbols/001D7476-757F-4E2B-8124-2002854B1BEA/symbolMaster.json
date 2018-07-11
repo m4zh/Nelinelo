@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 23776,
+  "changeIdentifier": 23880,
   "do_objectID": "001D7476-757F-4E2B-8124-2002854B1BEA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 624,
     "width": 1440,
-    "x": 41729,
-    "y": 824
+    "x": 36031,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -85,16 +85,16 @@
       "id": "0EDA6847-A871-4A87-9608-29363585CBAF"
     },
     {
-      "class": "group",
-      "id": "B7F021D4-0E04-433C-A36C-BA207CCD30EC"
+      "class": "symbolInstance",
+      "id": "9253FD44-3C27-486B-9B82-F1EAD41BDF83"
     },
     {
       "class": "text",
       "id": "A9B18B7B-00AC-47AD-BCB8-34A94B941800"
     },
     {
-      "class": "group",
-      "id": "98F34DD8-43CA-4046-A9B8-A321635CD3C3"
+      "class": "symbolInstance",
+      "id": "05998771-D284-49BB-B8B4-33CFCC745EED"
     },
     {
       "class": "symbolInstance",

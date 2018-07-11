@@ -22,10 +22,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A148DE80-CA11-4DC1-8332-C9BD3D4177D2",
-    "height": 1180,
+    "height": 1280,
     "width": 1440,
-    "x": 10522,
-    "y": -513
+    "x": 0,
+    "y": 4764
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,28 +46,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "4D48BFEF-0B19-4977-B2BA-7B5DF2D55098"
-    },
-    {
-      "class": "group",
-      "id": "A84CDCB1-A958-4F6A-B515-42B5B1619560"
-    },
-    {
       "class": "symbolInstance",
-      "id": "DEF2E040-5BC9-4E01-9BC1-F41C6B22BA8B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "561BECCD-F3B5-4D45-AFA9-D9B32CF88637"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0C41FF96-FE5F-4103-8759-00B1F2DCDB68"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "35FA2364-5320-4195-9F47-46B920EE9B04"
+      "id": "BE80E4EE-DEDE-4D56-9ADE-31A917915B0B"
     },
     {
       "class": "symbolInstance",
@@ -85,13 +65,13 @@
     "gutterWidth": 30,
     "guttersOutside": true,
     "horizontalOffset": 150,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Owner / Edit Profile",
-  "nameIsFixed": false,
+  "name": "Profile / Individual / Owner / 2. Edit Profile",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

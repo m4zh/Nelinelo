@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 980,
+  "changeIdentifier": 1285,
   "do_objectID": "98C9F316-CCB7-45B0-989D-BA68C86E7752",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,10 +23,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EC0FA724-F123-4B28-94D0-7684CF6E75A9",
-    "height": 360,
+    "height": 405,
     "width": 255,
-    "x": 20946,
-    "y": 240
+    "x": 16048,
+    "y": 90
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,31 +49,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "069F0CC5-7F96-4F92-8767-C6AB8A4C39C8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6F047066-8307-4E41-A35D-B2AEF7C5DFE6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AE0E85AC-7C04-458A-849D-0A806537AD20"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "48B9AE74-0D6A-4D58-B5D7-2EBDF0C6D1A3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D01C399D-2729-4051-A7EA-6EC8D5F5F7E6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E891316F-2A85-48B0-9646-A05A27BA73BD"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "00330CAE-8D26-41BB-B287-B6A4B9E55F9B"
+      "id": "086EFACB-9A3D-4761-B8FE-CC8024B0BA53"
     },
     {
       "class": "symbolInstance",
@@ -81,7 +57,35 @@
     },
     {
       "class": "symbolInstance",
-      "id": "086EFACB-9A3D-4761-B8FE-CC8024B0BA53"
+      "id": "00330CAE-8D26-41BB-B287-B6A4B9E55F9B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E891316F-2A85-48B0-9646-A05A27BA73BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D01C399D-2729-4051-A7EA-6EC8D5F5F7E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48B9AE74-0D6A-4D58-B5D7-2EBDF0C6D1A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE0E85AC-7C04-458A-849D-0A806537AD20"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F047066-8307-4E41-A35D-B2AEF7C5DFE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "069F0CC5-7F96-4F92-8767-C6AB8A4C39C8"
+    },
+    {
+      "class": "text",
+      "id": "03DBDC5B-9765-40EF-87DA-18657C99B5E9"
     }
   ],
   "name": "Contents / Common / Categories List / List",

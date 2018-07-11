@@ -24,8 +24,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Contents / Profile / Shop / Header / Cover Photo",
-  "nameIsFixed": false,
+  "name": "Cover Photo",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

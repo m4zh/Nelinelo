@@ -24,11 +24,11 @@
     "do_objectID": "8FC57F56-9EB1-4B63-893B-B12787491C61",
     "height": 1280,
     "width": 1440,
-    "x": 17123,
-    "y": 2586
+    "x": 1490,
+    "y": 6144
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -70,8 +70,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Owner / Collections / Created / Create Modal",
-  "nameIsFixed": false,
+  "name": "Profile / Individual / Owner / 4. Collections / Created / Create Modal",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

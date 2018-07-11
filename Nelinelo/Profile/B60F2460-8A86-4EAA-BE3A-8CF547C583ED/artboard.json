@@ -22,10 +22,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FD94AAFF-777A-4CE0-9984-EB61A2BD04AA",
-    "height": 1180,
+    "height": 1360,
     "width": 1440,
-    "x": 4096,
-    "y": 2614
+    "x": 7450,
+    "y": 10284
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -43,23 +43,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "AD97E04B-3F8E-4AA0-93D6-2E3FE62B5CCE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "ABF26409-2F39-4ACE-A8C5-523D74611FCE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "26532E34-4AEC-42CC-8FE8-AB90E77C1684"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "39BF914B-3628-45B0-9D54-194B150AD19C"
     },
     {
       "class": "symbolInstance",
@@ -86,8 +74,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Owner / Blank / Following",
-  "nameIsFixed": false,
+  "name": "Profile / Individual / Owner / Blank / 6. Following",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

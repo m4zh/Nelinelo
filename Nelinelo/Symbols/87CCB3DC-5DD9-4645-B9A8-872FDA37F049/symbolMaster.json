@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 74,
+  "changeIdentifier": 88,
   "do_objectID": "87CCB3DC-5DD9-4645-B9A8-872FDA37F049",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 36,
     "width": 36,
-    "x": 57714,
-    "y": 472
+    "x": 42517,
+    "y": 172
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,8 +49,8 @@
       "id": "24374F76-FD9B-4F33-80AA-7172EB93D5BB"
     }
   ],
-  "name": "Profile / Shop / Public / Contents / About / Opening Hours / Day / Unselect",
-  "nameIsFixed": false,
+  "name": "Contents / Profile / Shop / Public / Contents / About / Opening Hours / Day / Unselect",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

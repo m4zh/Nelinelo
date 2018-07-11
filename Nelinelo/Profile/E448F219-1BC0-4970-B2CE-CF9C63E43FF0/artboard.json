@@ -24,11 +24,11 @@
     "do_objectID": "8E92FC7C-59C8-4001-9EC5-FB5C2274D0E7",
     "height": 1280,
     "width": 1440,
-    "x": 10522,
-    "y": 4218
+    "x": 0,
+    "y": 8904
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,10 +45,6 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "group",
-      "id": "0979699E-D527-42ED-9932-29DF4E77AD69"
-    },
     {
       "class": "symbolInstance",
       "id": "8940296C-62E5-45E8-805A-E0D3880B3CAF"
@@ -67,15 +63,15 @@
     },
     {
       "class": "group",
-      "id": "4D270EF0-CCDA-4C62-9A12-AC5AC836AD49"
-    },
-    {
-      "class": "group",
       "id": "AED0548B-F49B-4954-9BF6-8088AC92AAC0"
     },
     {
       "class": "symbolInstance",
-      "id": "526C1C2F-FEE6-44E7-9D15-D64DC1E049D8"
+      "id": "92D1FF92-9503-462C-AF66-C18B542CEB5D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57C4C7A4-E88E-4052-B82B-17A0ED16DAEF"
     }
   ],
   "layout": {
@@ -94,8 +90,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Owner / Following",
-  "nameIsFixed": false,
+  "name": "Profile / Individual / Owner / 5. Following",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

@@ -34,11 +34,11 @@
     "do_objectID": "CA786FA3-718C-48FA-924B-BC68B06141F8",
     "height": 1280,
     "width": 1440,
-    "x": 15437,
-    "y": 2586
+    "x": 5960,
+    "y": 6144
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,12 +53,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "group",
-      "id": "F1F11F39-7A47-49E8-A80C-4861DC5015E4"
-    },
     {
       "class": "symbolInstance",
       "id": "C802E3EB-3E82-49C7-B4A2-2D250555D8FA"
@@ -78,6 +74,10 @@
     {
       "class": "symbolInstance",
       "id": "DC98EA94-1AB0-4A1E-8B6E-FC697769B2A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "835345A3-40AE-4BF0-A898-C5A03AB96FA0"
     }
   ],
   "layout": {
@@ -96,7 +96,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Profile / Individual / Owner / Collections / Created / Public Items",
+  "name": "Profile / Individual / Owner / 4. Collections / Created / Public Items",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

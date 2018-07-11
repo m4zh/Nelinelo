@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5B2DE6B8-29F4-4207-9570-19E9173A523E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D19A780-C3AE-4545-9687-F4FD6FBD5FA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D45152F-D799-43B2-BFC9-54BB27461E45",
+    "height": 1039,
+    "width": 1110,
+    "x": 165,
+    "y": 2076
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contents / Profile / Collections / Section / Created",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F38A54E-C3B4-4E60-AD60-E61A411D286A",
+      "overrideName": "F0B761E6-BF1B-4E20-940B-C43E1DD34FD1/BD0A7E44-0144-4812-A718-EB5ADF7277FA/4EE9E2F6-06C3-4E68-9879-265B51B946A7/6AD48E33-AD08-4B19-8575-D1054F4640CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/715729ff8e459080b3dac6bc07a98c4807082b79.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70E4F589-8CE1-4E8E-AFAE-D0181B91B259",
+      "overrideName": "F0B761E6-BF1B-4E20-940B-C43E1DD34FD1/D1A29934-218D-4E21-9BA4-64BD96064A4B/4EE9E2F6-06C3-4E68-9879-265B51B946A7/6AD48E33-AD08-4B19-8575-D1054F4640CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/80c7b1fbb4c8dc4ea44780ff73986ef83281fb44.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA7E6F5D-62A9-45F7-A7BA-160D8B127E47",
+      "overrideName": "F0B761E6-BF1B-4E20-940B-C43E1DD34FD1/5B94C524-A330-40EC-8D98-609D89D306CC/4EE9E2F6-06C3-4E68-9879-265B51B946A7/6AD48E33-AD08-4B19-8575-D1054F4640CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/64c80844c119f6c02c773b037010dbe3e371e167.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B30338BE-7D24-4F73-A6CD-06E4C1832476",
+      "overrideName": "F0B761E6-BF1B-4E20-940B-C43E1DD34FD1/1B95A205-F634-4F24-B54E-56C8AF39AEE9/4EE9E2F6-06C3-4E68-9879-265B51B946A7/6AD48E33-AD08-4B19-8575-D1054F4640CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3ffd097fae0790c0c1f1d5439a087b41925810b3.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5DCEA104-9CBC-4654-96F1-A851DD730FB0",
+      "overrideName": "F0B761E6-BF1B-4E20-940B-C43E1DD34FD1/7BE82B81-EA79-4FE7-9B7B-0DF8507E36FC/4EE9E2F6-06C3-4E68-9879-265B51B946A7/6AD48E33-AD08-4B19-8575-D1054F4640CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bf884f954ddedf94b970990ef518dc08772fdac3.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "554655D7-B95A-41B5-B633-696345FB9E11",
+      "overrideName": "F0B761E6-BF1B-4E20-940B-C43E1DD34FD1/20433BCC-689D-4AF6-BC4E-A5CCDF2211BE/4EE9E2F6-06C3-4E68-9879-265B51B946A7/6AD48E33-AD08-4B19-8575-D1054F4640CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/33366c1e0c9bc99a64bfd65409cf17c83ee88428.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A9521B7-8851-452F-8558-D600AA3E5915",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5611764B-6C9A-4CE2-8E84-394CF607AB4D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

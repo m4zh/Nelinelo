@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 128,
+  "changeIdentifier": 146,
   "do_objectID": "8F0603A1-7987-495A-B47B-74453ADEC3EE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 44,
     "width": 87,
-    "x": 57714,
-    "y": 708
+    "x": 42653,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -89,8 +89,8 @@
       "id": "004AA15E-9D9C-4C39-A358-F27FF2E78C8E"
     }
   ],
-  "name": "Profile / Shop / Public / Contents / About / Opening Hours / Time Picker",
-  "nameIsFixed": false,
+  "name": "Contents / Profile / Shop / Public / Contents / About / Opening Hours / Time Picker",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

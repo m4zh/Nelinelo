@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 16,
+  "changeIdentifier": 236,
   "do_objectID": "02944506-CCC5-46F6-B68A-95DDD0435F46",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,9 +21,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 528,
+    "height": 624,
     "width": 1110,
-    "x": 33683,
+    "x": 26496,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -91,6 +91,10 @@
     {
       "class": "symbolInstance",
       "id": "F3F92C85-2EBB-4B3D-AAC5-D989BA63411F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC400BB0-0619-4487-AEA1-3D0E7A0145B7"
     }
   ],
   "name": "Contents / Profile / Following|Followers / Items",
